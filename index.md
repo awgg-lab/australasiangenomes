@@ -6,4 +6,4 @@ Australasian Genomes is the genomic data repository for the [Threatened Species 
 
 
 
-![TSI_small](https://user-images.githubusercontent.com/63081372/130890641-85b0c6d0-a63c-437f-8496-8f2f28ae9551.png) ![CIPPSLogo_header](https://user-images.githubusercontent.com/63081372/130881530-22428963-6616-4e84-98f2-b5efe0675ca3.png) 
+![TSI_small](https://user-images.githubusercontent.com/63081372/130890641-85b0c6d0-a63c-437f-8496-8f2f28ae9551.png) ![CIPPSLogo_header](https://user-images.githubusercontent.com/63081372/130881530-22428963-6616-4e84-98f2-b5efe0675ca3.png) ![AWGG logo full_small](https://user-images.githubusercontent.com/63081372/130900144-6c7e4629-4e77-483b-9cd1-d41fec43e9a7.png)
