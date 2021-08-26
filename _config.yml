@@ -1,1 +1,13 @@
+title: Australasian Genomes
+author: awgg-lab
+email: soles.wildlife-genomics@sydney.edu.au
+description: Genomic data repository for the Threatened Species Initiative and the ARC Centre for Innovations in Peptides and Protein Science
+
+# social links
+twitter_username: ThreatenedSpGen
+twitter_username: ARC_CIPPS
+github_username: awgg-lab
+
+show_excerpts: true
+
 theme: jekyll-theme-cayman
