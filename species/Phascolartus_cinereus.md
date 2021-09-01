@@ -8,7 +8,8 @@
 
 ## Resequenced Genomes
 
-[Metadata] for all geneomes ()
+[Metadata]() for all geneomes
+
 Data is separated by Regions, NSW (New South Wales), QLD (Queensland), VIC (Victoria).
 
 [NSW-Port_Stephens]()
