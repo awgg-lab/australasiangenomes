@@ -1,4 +1,4 @@
-<img src = "Phascolartus_cinereus.jpg" width = 200>
+##Koala
 
 <br>
 
