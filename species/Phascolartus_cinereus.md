@@ -6,9 +6,13 @@
 
 <br>
 
-| Sequencing type | Description |
+## Assembly statistics
+
 | --- | --- |
-| 10X Genomics    | whatever |
-| PacBio HiFi |  again |
+| Assembly    | PacBio HiFi |
+| Assembler program |  IPA version 1.1.2 |
+| Genome size | 1.2 GB |
+| #contigs | 952 |
+| Contig N50 | 6.53 MB |
 
 <br>
