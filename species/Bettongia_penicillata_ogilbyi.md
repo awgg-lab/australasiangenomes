@@ -25,14 +25,14 @@
 
 <br>
 
-**| BUSCO v3.1.0 | 4915 genes |**
+| **BUSCO v3.1.0** | 4915 genes |
 | --- | --- |
 | Complete    | XX |
 | Single Copy |  XX |
 | Duplicated | XX |
 | Fragmented | XX |
 | Missing | XX  |
-**| BUSCO v4.0.6 | 8338 genes |**
+| **BUSCO v4.0.6** | 8338 genes |
 | Complete    | XX |
 | Single Copy |  XX |
 | Duplicated | XX |
