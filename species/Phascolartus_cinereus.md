@@ -6,7 +6,8 @@
 
 <br>
 
-| Sequencing type | -------- |
+| Sequencing type | Description |
+| --- | --- |
 | 10X Genomics    | whatever |
 | PacBio HiFi |  again |
 
