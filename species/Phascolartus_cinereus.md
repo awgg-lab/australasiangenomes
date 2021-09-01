@@ -1,6 +1,6 @@
-[images](images/)
+[Koala](./images/)
 
-<img src = "images/Phascolartus_cinereus.jpg" width = 200>
+<img src = "./images/Phascolartus_cinereus.jpg" width = 200>
 
 <br>
 
