@@ -1,4 +1,4 @@
-# **Woylie** <img src = "https://github.com/awgg-lab/australasiangenomes/blob/main/images/Bettongia_pencillata.jpg" width = 200 align = "right">
+# **Woylie** *(Bettongia penicillata ogilbyi)* <img src = "https://github.com/awgg-lab/australasiangenomes/blob/main/images/Bettongia_pencillata.jpg" width = 200 align = "right">
 *Photo credit: Sabrina Trocini*
 
 <br>
