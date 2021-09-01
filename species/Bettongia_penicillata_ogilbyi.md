@@ -9,7 +9,7 @@
 
 ## Assembly statistics
 
-|Assembly Statistics |  |
+| Assembly Statistics |  |
 | --- | --- |
 | Assembly    | PacBio HiFi |
 | Assembler program |  IPA version 1.1.2 |
