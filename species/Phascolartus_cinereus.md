@@ -1,4 +1,4 @@
-# **Koala** <img src = "../blob/main/images/Phascolartus_cinereus.jpg" width = 100>
+# **Koala** <img src = "/main/images/Phascolartus_cinereus.jpg" width = 100>
 
 <br>
 
