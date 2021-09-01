@@ -2,18 +2,15 @@
 
 <br>
 
-[NCBI reference genome](https://www.ncbi.nlm.nih.gov/assembly/GCF_002099425.1/) | [Resequenced genomes](https://www.ncbi.nlm.nih.gov/assembly/GCF_002099425.1/)
+[NCBI reference genome](https://www.ncbi.nlm.nih.gov/assembly/GCF_002099425.1/) | [Immune Gene Annotation]()
 
 <br>
 
-## Assembly statistics
+## Resequenced Genomes
 
-| Assembly | Statistics |
-| --- | --- |
-| Assembly    | PacBio HiFi |
-| Assembler program |  IPA version 1.1.2 |
-| Genome size | 1.2 GB |
-| #contigs | 952 |
-| Contig N50 | 6.53 MB |
+[Metadata] for all geneomes ()
+Data is separated by Regions, NSW (New South Wales), QLD (Queensland), VIC (Victoria).
+
+[NSW-Port_Stephens]()
 
 <br>
