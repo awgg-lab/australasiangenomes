@@ -1,5 +1,5 @@
 # **Koala**
-![koala](images/Phascolartus_cinereus.jpg)
+![koala](https://github.com/awgg-lab/australasiangenomes/blob/main/images/Phascolartus_cinereus.jpg)
 
 <br>
 
