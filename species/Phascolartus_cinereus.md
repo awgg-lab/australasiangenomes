@@ -1,4 +1,4 @@
-[Koala](./images/Phascolartus_cinereus.jpg)
+![Koala](./images/Phascolartus_cinereus.jpg)
 
 <img src = "./images/Phascolartus_cinereus.jpg" width = 200>
 
