@@ -1,4 +1,4 @@
-# **Koala** <img src = "https://github.com/awgg-lab/australasiangenomes/blob/main/images/Phascolartus_cinereus.jpg" width = 100 align = "right">
+# **Koala** <img src = "https://github.com/awgg-lab/australasiangenomes/blob/main/images/Phascolartus_cinereus.jpg" width = 200 align = "right">
 
 <br>
 
