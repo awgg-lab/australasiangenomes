@@ -1,5 +1,7 @@
 # **Woylie** <img src = "https://github.com/awgg-lab/australasiangenomes/blob/main/images/Bettongia_pencillata.jpg" width = 200 align = "right">
-*Photo credit: Sabrina Trocini*
+element {
+  font-size: 14;
+}*Photo credit: Sabrina Trocini*
 
 <br>
 
