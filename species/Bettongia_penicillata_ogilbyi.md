@@ -1,5 +1,5 @@
-# **Woylie** *(Bettongia penicillata ogilbyi)* <img src = "https://github.com/awgg-lab/australasiangenomes/blob/main/images/Bettongia_pencillata.jpg" width = 200 align = "right">
-
+# **Woylie** *(Bettongia penicillata ogilbyi)* 
+<img src = "https://github.com/awgg-lab/australasiangenomes/blob/main/images/Bettongia_pencillata.jpg" width = 200 align = "right">
 <br>
 
 [Draft Reference genome]() | [Transcriptomes]() |  [Annotated Immune Genes]()
@@ -24,16 +24,11 @@
 
 <br>
 
-| **BUSCO v3.1.0** | **4915 genes** |
-| --- | --- |
-| Complete    | XX |
-| Single Copy |  XX |
-| Duplicated | XX |
-| Fragmented | XX |
-| Missing | XX  |
-| **BUSCO v4.0.6** | **8338 genes** |
-| Complete    | 86.5% |
-| Single Copy |  XX |
-| Duplicated | XX |
-| Fragmented | XX |
-| Missing | XX  |
+| **BUSCO** | **v3.1.0** | **v4.0.6** |
+| --- | --- | --- |
+| Genes    | 4915 | 8338 |
+| Complete    | XX | XX |
+| Single Copy |  XX |  XX |
+| Duplicated | XX |  XX |
+| Fragmented | XX |  XX |
+| Missing | XX  |  XX |
