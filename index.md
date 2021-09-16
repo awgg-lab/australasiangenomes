@@ -1,5 +1,5 @@
 # Australasian Genomes
-Australasian Genomes is the genomic data repository for the [Threatened Species Initiative](https://threatenedspeciesinitiative.com/) (TSI) and the [ARC Centre for Innovations in Peptide and Protein Science](https://cipps.org.au/) (CIPPS). This repository contains reference genomes, transcriptomes, resequenced genomes and reduced representation sequencing data from Australasian species. Australasian Genomes is managed by the Australasian Wildlife Genomics Group (AWGG) at the Univeristy of Sydney on behalf of our collaborators within TSI and CIPPS.
+Australasian Genomes is the genomic data repository for the [Threatened Species Initiative](https://threatenedspeciesinitiative.com/) (TSI) and the [ARC Centre for Innovations in Peptide and Protein Science](https://cipps.org.au/) (CIPPS). This repository contains reference genomes, transcriptomes, resequenced genomes and reduced representation sequencing data from Australasian species. Australasian Genomes is managed by the Australasian Wildlife Genomics Group (AWGG) at the University of Sydney on behalf of our collaborators within TSI and CIPPS.
 
 
 # [Species data](genomes.md)
