@@ -1,5 +1,3 @@
-[Species Data](../genomes.md)
-
 # **Koala** *(Phascolartus cinereus)*
 
 <br>
