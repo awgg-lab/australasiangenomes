@@ -14,7 +14,7 @@ aws s3 ls s3://threatenedspecies --no-sign-request sync s3://threatenedspecies.s
 <br>
 
 | Assembly Statistics |  |
-| --- | --- |
+|:--- | --- |
 | Assembly    | PacBio HiFi & 10X Genomics |
 | Assembler program |  IPA version 1.1.2 & 10X Genomics Long Ranger v2.2.2 |
 | Genome size | 3.39 GB |
@@ -30,7 +30,7 @@ aws s3 ls s3://threatenedspecies --no-sign-request sync s3://threatenedspecies.s
 <br>
 
 | **BUSCO** | **v3.1.0** | **v4.0.6** |
-| --- | --- | --- |
+|:--- | --- | --- |
 | Genes    | 4915 | 8338 |
 | Complete    | XX | XX |
 | Single Copy |  XX |  XX |
