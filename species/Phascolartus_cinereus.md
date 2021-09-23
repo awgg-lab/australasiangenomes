@@ -1,4 +1,5 @@
-# **Koala** *(Phascolartus cinereus)* !<img src = "../blob/main/images/Phascolartus_cinereus.jpg" width = 200 align = "right">
+# **Koala** *(Phascolartus cinereus)* 
+<image src="/images/Phascolartus_cinereus.jpg" width = 200 align = "right">
 
 <br>
 
