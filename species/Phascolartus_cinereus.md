@@ -9,7 +9,11 @@
 
 ## Resequenced Genomes
 
-[Metadata]() for all geneomes
+[Metadata](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/Koala_Metadata.csv) for all resequenced genomes
+  
+[Acknowledgement & Licensing](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/ReadMe.txt)
+
+<br>
 
 Data is separated by Regions - NSW (New South Wales), QLD (Queensland), VIC (Victoria).
 
