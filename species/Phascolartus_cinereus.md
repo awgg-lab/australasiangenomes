@@ -1,4 +1,4 @@
-[Species Data](../australasiangenomes/genomes.md)
+[Species Data](../genomes.md)
 
 # **Koala** *(Phascolartus cinereus)*
 
