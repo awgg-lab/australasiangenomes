@@ -4,12 +4,12 @@ Data is sorted into folders by species name, inside each folder are the links to
 
 *Genome naming convention*
 ```
-taxa_first three letters Genus_first three letters Species_primary/seconday_version number_date submitted to NCBI
+taxa(first three letters)_Genus(first three letters)_Species_primary/seconday_version number_NCBI submission date
 ```
 
 *Transcriptome naming convention*
 ```
-taxa_first three letters Genus_first three letters Species_tissue type_version number_date submitted to NCBI
+taxa(first three letters)_Genus(first three letters)_Species_tissue type_version number_NCBI submission date
 ```
 
 
