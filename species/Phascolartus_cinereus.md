@@ -1,40 +1,45 @@
-# **Koala** *(Phascolartus cinereus)* 
-<image src="/images/Phascolartus_cinereus.jpg" width = 200 align = "right">
+# **Koala** *(Phascolartus cinereus)*
 
 <br>
 
-[NCBI reference genome](https://www.ncbi.nlm.nih.gov/assembly/GCF_002099425.1/) | [Immune Gene Annotation]()
+[NCBI reference genome](https://www.ncbi.nlm.nih.gov/assembly/GCF_002099425.1/) | 
 
 <br>
 
-## Resequenced Genomes
+## [Resequenced Genomes](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html)
 
-[Metadata](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/Koala_Metadata.csv) for all resequenced genomes
+[Dataset Acknowledgement & Licensing](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/KoalaReadMe.txt)
+
+[Dataset Metadata](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/Koala_Metadata.csv)
+
+Download data through hyperlinks on this page or using the [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
   
-[Acknowledgement & Licensing](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/KoalaReadMe.txt)
+```
+aws s3 ls s3://koalagenomes --no-sign-request
+```
 
 <br>
 
-Data is separated by Regions - NSW (New South Wales), QLD (Queensland), VIC (Victoria).
+Data separated by Regions - NSW (New South Wales), QLD (Queensland), VIC (Victoria).
 
-[NSW_Campbelltown]()
+[NSW_Campbelltown](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Campbelltown/)
 
-[NSW_Gunnedah]()
+[NSW_Gunnedah](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Gunnedah/)
 
-[NSW_Monaro]()
+[NSW_Monaro](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Monaro/)
 
-[NSW_Port_Stephens]()
+[NSW_Port_Stephens](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Port_Stephens/)
 
-[NSW_Southern_Highlands]()
+[NSW_Southern_Highlands](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Southern_Highlands/)
 
-[QLD_Moreton_Bay_Region]()
+[QLD_Moreton_Bay_Region](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#QLD_Moreton_Bay_Region/)
 
-[VIC_French_Island]()
+[VIC_French_Island](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#VIC_French_Island/)
 
-[VIC_Highlands]()
+[VIC_Highlands](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#VIC_Highlands/)
 
-[VIC_South_Gippsland]()
+[VIC_South_Gippsland](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#VIC_South_Gippsland/)
 
-[VIC_Strathbogies]()
+[VIC_Strathbogies](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#VIC_Strathbogies/)
 
 <br>
