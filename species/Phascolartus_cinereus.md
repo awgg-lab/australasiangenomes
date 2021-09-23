@@ -1,4 +1,4 @@
-[Species Data](genomes.md)
+[Species Data](../genomes.md)
 
 # **Koala** *(Phascolartus cinereus)*
 
