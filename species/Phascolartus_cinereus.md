@@ -16,16 +16,16 @@ Download data through hyperlinks on this page or using the [AWS Command Line Int
   
 ```
 aws s3 sync s3://koalagenomes/ . --no-sign-request
-aws s3 sync s3://koalagenomes/NSW_Campbelltown/ 
-aws s3 sync s3://koalagenomes/NSW_Gunnedah/ 
-aws s3 sync s3://koalagenomes/NSW_Monaro/ 
-aws s3 sync s3://koalagenomes/NSW_Port_Stephens/ 
-aws s3 sync s3://koalagenomes/NSW_Southern_Highlands/ 
-aws s3 sync s3://koalagenomes/QLD_Moreton_Bay_Region/ 
-aws s3 sync s3://koalagenomes/VIC_French_Island/ 
-aws s3 sync s3://koalagenomes/VIC_Highlands/ 
-aws s3 sync s3://koalagenomes/VIC_South_Gippsland/ 
-aws s3 sync s3://koalagenomes/VIC_Strathbogies/ 
+aws s3 sync s3://koalagenomes/NSW_Campbelltown/ .
+aws s3 sync s3://koalagenomes/NSW_Gunnedah/ .
+aws s3 sync s3://koalagenomes/NSW_Monaro/ .
+aws s3 sync s3://koalagenomes/NSW_Port_Stephens/ .
+aws s3 sync s3://koalagenomes/NSW_Southern_Highlands/ .
+aws s3 sync s3://koalagenomes/QLD_Moreton_Bay_Region/ .
+aws s3 sync s3://koalagenomes/VIC_French_Island/ .
+aws s3 sync s3://koalagenomes//VIC_Highlands/ .
+aws s3 sync s3://koalagenomes/VIC_South_Gippsland/ .
+aws s3 sync s3://koalagenomes/VIC_Strathbogies/ .
 
 ```
 
