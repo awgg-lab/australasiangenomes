@@ -33,6 +33,8 @@ aws s3 sync s3://koalagenomes/VIC_Strathbogies/ .
 
 Data separated by Regions - NSW (New South Wales), QLD (Queensland), VIC (Victoria).
 
+[NSW_Broadwater](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Broadwater/)
+
 [NSW_Campbelltown](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Campbelltown/)
 
 [NSW_Gunnedah](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Gunnedah/)
