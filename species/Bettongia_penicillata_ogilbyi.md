@@ -5,12 +5,12 @@
 Download data through hyperlinks above or using the [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
   
 ```
-aws s3 cp s3://threatenedspecies/Bettongia_penicillata_ogilbyi/Betpen_md5sum.txt 
-aws s3 cp s3://threatenedspecies/Bettongia_penicillata_ogilbyi/mBetpen.global.20210916.fasta.gz 
-aws s3 cp s3://threatenedspecies/Bettongia_penicillata_ogilbyi/mBetpen1.pri.20210916.fasta.gz 
-aws s3 cp s3://threatenedspecies/Bettongia_penicillata_ogilbyi/mBetpen1.pri.20210916.gff3.gz 
-aws s3 cp s3://threatenedspecies/Bettongia_penicillata_ogilbyi/WoylieReadMe.txt 
-aws s3 sync s3://threatenedspecies/Bettongia_penicillata_ogilbyi/ 
+aws s3 cp s3://threatenedspecies/Bettongia_penicillata_ogilbyi/Betpen_md5sum.txt .
+aws s3 cp s3://threatenedspecies/Bettongia_penicillata_ogilbyi/mBetpen.global.20210916.fasta.gz .
+aws s3 cp s3://threatenedspecies/Bettongia_penicillata_ogilbyi/mBetpen1.pri.20210916.fasta.gz .
+aws s3 cp s3://threatenedspecies/Bettongia_penicillata_ogilbyi/mBetpen1.pri.20210916.gff3.gz .
+aws s3 cp s3://threatenedspecies/Bettongia_penicillata_ogilbyi/WoylieReadMe.txt .
+aws s3 sync s3://threatenedspecies/Bettongia_penicillata_ogilbyi/ .
 ```
 
 <br>
