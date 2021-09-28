@@ -16,7 +16,10 @@ Download data through hyperlinks on this page or using the [AWS Command Line Int
   
 ```
 aws s3 sync s3://koalagenomes/ . --no-sign-request
+aws s3 sync s3://koalagenomes/NSW_Broadwater/ .
+aws s3 sync s3://koalagenomes/NSW_Byron/ .
 aws s3 sync s3://koalagenomes/NSW_Campbelltown/ .
+aws s3 sync s3://koalagenomes/NSW_Clarence_Valley/ .
 aws s3 sync s3://koalagenomes/NSW_Gunnedah/ .
 aws s3 sync s3://koalagenomes/NSW_Monaro/ .
 aws s3 sync s3://koalagenomes/NSW_Port_Stephens/ .
@@ -35,7 +38,11 @@ Data separated by Regions - NSW (New South Wales), QLD (Queensland), VIC (Victor
 
 [NSW_Broadwater](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Broadwater/)
 
+[NSW_Byron](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Byron/)
+
 [NSW_Campbelltown](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Campbelltown/)
+
+[NSW_Clarence_Valley](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Clarence_Valley/)
 
 [NSW_Gunnedah](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Gunnedah/)
 
