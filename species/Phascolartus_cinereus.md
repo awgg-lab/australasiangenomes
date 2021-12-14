@@ -62,4 +62,4 @@ Data separated by Regions - NSW (New South Wales), QLD (Queensland), VIC (Victor
 
 [VIC_Strathbogies](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#VIC_Strathbogies/)
 
-<br>
+This data was produced as part of the Koala Genome Survey with funding from the NSW Government and the Australian Government’s Bushfire Recovery for Wildlife and their Habitats program (GA-2000526), further support was provided by the University of Sydney, Amazon Web Services Open Data Sets, Ramaciotti Centre for Genomics and Illumina.
