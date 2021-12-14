@@ -39,3 +39,5 @@ aws s3 sync s3://threatenedspecies/Bettongia_penicillata_ogilbyi/ .
 | Duplicated | 1.6% |  1.4% |
 | Fragmented | 2.0% |  3.3% |
 | Missing | 11.5%  |  4.6% |
+
+This genome data was supported by funding from the Australian Research Council Centre of Excellence for Innovations in Peptide and Protein Science (CE200100012) and Discovery Project (DP180102465), and the Presbyterian Ladies' College Sydney.
