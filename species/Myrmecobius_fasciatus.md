@@ -17,25 +17,27 @@ aws s3 sync s3://threatenedspecies/Myrecobius_fasciatus/ .
 
 | Assembly Statistics |  |
 |:--- | --- |
-| Assembly    | PacBio HiFi & 10X Genomics |
-| Assembler program |  IPA version 1.1.2 & 10X Genomics Long Ranger v2.2.2 |
+| Assembly    | 10X Genomics |
+| Assembler program |  Supernova v2.1.1 |
 | Genome size | 3.42 GB |
 | #contigs | 219,447 |
-| Contig N50 | 0.037 Mb |
+| Contig N50 | 0.038 Mb |
 | # scaffolds | 112,299 |
 | Scaffold N50 | 0.223 Mb |
-| Largest Scaffold | 35.6 Mb |
-| Largest Contig | 12.02 Mb |
-| % Genome in Scaffolds | 99.59% |
+| Largest Scaffold | 2.05 Mb |
+| Largest Contig | 0.326 Mb |
+| % Genome in Scaffolds | 96.47% |
 | % Gaps | 3.52% |
 
 <br>
 
 | **BUSCO** | **v3.1.0** | **v4.0.6** |
 |:--- | --- | --- |
-| Genes    | 4915 | 8338 |
-| Complete    | 92.1% | 86.5% |
-| Single Copy |  90.5% |  85.1% |
-| Duplicated | 1.6% |  1.4% |
-| Fragmented | 2.0% |  3.3% |
-| Missing | 11.5%  |  4.6% |
+| Genes    | 4104 | TBA |
+| Complete    | 82.8% | TBA |
+| Single Copy |  79.1% |  TBA |
+| Duplicated | 3.7% |  TBA |
+| Fragmented | 9.6% |  TBA |
+| Missing | 7.6%  |  TBA |
+
+This genome data was supported by funding from the Australian Research Council Centre of Excellence for Innovations in Peptide and Protein Science (CE200100012) and Discovery Project (DP180102465), and the Oz Mammals Genomics consortium supported by funding from Bioplatforms Australia through the Australian Government National Collaborative Research Infrastructure Strategy (NCRIS).
