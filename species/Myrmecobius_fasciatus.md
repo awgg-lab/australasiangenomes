@@ -40,4 +40,4 @@ aws s3 sync s3://threatenedspecies/Myrecobius_fasciatus/ .
 | Fragmented | 9.6% |  TBA |
 | Missing | 7.6%  |  TBA |
 
-This genome data was supported by funding from the Australian Research Council Centre of Excellence for Innovations in Peptide and Protein Science (CE200100012) and Discovery Project (DP180102465), and the Oz Mammals Genomics consortium supported by funding from Bioplatforms Australia through the Australian Government National Collaborative Research Infrastructure Strategy (NCRIS).
+This genome data was supported by funding from the Australian Research Council Centre of Excellence for Innovations in Peptide and Protein Science (CE200100012) and Discovery Project (DP180102465), and the Oz Mammals Genomics consortium supported by funding from Bioplatforms Australia through the Australian Government National Collaborative Research Infrastructure Strategy (NCRIS). Image was supplied by Wayne Lawler, Australian Wildlife Conservancy.
