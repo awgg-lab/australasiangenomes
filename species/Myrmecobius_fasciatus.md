@@ -5,12 +5,13 @@
 Download data through hyperlinks above or using the [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
   
 ```
-aws s3 cp s3://threatenedspecies/Myrecobius_fasciatus/Myrfas_md5sum.txt .
-aws s3 cp s3://threatenedspecies/Myrecobius_fasciatus/mMyrfas.global.20211206.fasta .
-aws s3 cp s3://threatenedspecies/Myrecobius_fasciatus/mMyrfas1.pri.20211206.fasta.gz .
-aws s3 cp s3://threatenedspecies/Myrecobius_fasciatus/mMyrfas1.pri.20211206.gff3.gz .
-aws s3 cp s3://threatenedspecies/Myrecobius_fasciatus/NumbatReadMe.txt .
-aws s3 sync s3://threatenedspecies/Myrecobius_fasciatus/ .
+aws s3 cp s3://threatenedspecies/Myrmecobius_fasciatus/Myrfas_md5sum.txt .
+aws s3 cp s3://threatenedspecies/Myrmecobius_fasciatus/mMyrfas.global.20211206.fasta .
+aws s3 cp s3://threatenedspecies/Myrmecobius_fasciatus/mMyrfas1.pri.20211206.fasta.gz .
+aws s3 cp s3://threatenedspecies/Myrmecobius_fasciatus/mMyrfas1.pri.20211206.gff3.gz .
+aws s3 cp s3://threatenedspecies/Myrmecobius_fasciatus/NumbatReadMe.txt .
+aws s3 sync s3://threatenedspecies/Myrmecobius_fasciatus/ .
+
 ```
 
 <br>
