@@ -1,6 +1,8 @@
 # **Woylie** *(Bettongia penicillata ogilbyi)* 
 
-[Genome & Transcriptomes ](https://threatenedspecies.s3.ap-southeast-2.amazonaws.com/index.html) | 
+[Genome & Transcriptome Data ](https://threatenedspecies.s3.ap-southeast-2.amazonaws.com/index.html) | [NCBI Accession: 	PRJNA763700](https://www.ncbi.nlm.nih.gov/bioproject/763700)
+
+[Publication:](https://doi.org/10.46471/gigabyte.35)  Emma Peel, Luke Silver, Parice Brandies, Carolyn J. Hogg, Katherine Belov, A reference genome for the critically endangered woylie, Bettongia penicillata ogilbyi, Gigabyte, 1, 2021
 
 Download data through hyperlinks above or using the [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
   
