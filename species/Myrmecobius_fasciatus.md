@@ -1,6 +1,6 @@
 # **Numbat** *(Myrmecobius fasciatus)* 
 
-[Genome & Transcriptomes ](https://threatenedspecies.s3.ap-southeast-2.amazonaws.com/index.html) | 
+[Genome & Transcriptome Data ](https://threatenedspecies.s3.ap-southeast-2.amazonaws.com/index.html) | [NCBI Accession: PRJNA786364](https://www.ncbi.nlm.nih.gov/bioproject/786364)
 
 Download data through hyperlinks above or using the [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
   
@@ -32,7 +32,7 @@ aws s3 sync s3://threatenedspecies/Myrmecobius_fasciatus/ .
 
 <br>
 
-| **BUSCO** | **v3.1.0** | **v4.0.6** |
+| **BUSCO** | **v3.1.0** | **v5.2.2** |
 |:--- | --- | --- |
 | Genes    | 4104 | TBA |
 | Complete    | 82.8% | TBA |
