@@ -34,11 +34,11 @@ aws s3 sync s3://threatenedspecies/Myrmecobius_fasciatus/ .
 
 | **BUSCO** | **v3.1.0** | **v5.2.2** |
 |:--- | --- | --- |
-| Genes    | 4104 | TBA |
-| Complete    | 82.8% | TBA |
-| Single Copy |  79.1% |  TBA |
-| Duplicated | 3.7% |  TBA |
-| Fragmented | 9.6% |  TBA |
-| Missing | 7.6%  |  TBA |
+| Genes    | 4104 | 9226 |
+| Complete    | 82.8% | 78.7% |
+| Single Copy |  79.1% |  73.2% |
+| Duplicated | 3.7% |  5.5% |
+| Fragmented | 9.6% |  6.3% |
+| Missing | 7.6%  |  15.0% |
 
 This genome data was supported by funding from the Australian Research Council Centre of Excellence for Innovations in Peptide and Protein Science (CE200100012) and Discovery Project (DP180102465), and the Oz Mammals Genomics consortium supported by funding from Bioplatforms Australia through the Australian Government National Collaborative Research Infrastructure Strategy (NCRIS). Image was supplied by Wayne Lawler, Australian Wildlife Conservancy.
