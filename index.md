@@ -3,9 +3,14 @@ Australasian Genomes is the genomic data repository for the [Threatened Species 
 
 
 # [Species data](genomes.md)
+Click hyperlink above to access raw sequence data files
 
+<br>
 
+# [Publications & associated datasets](publications.md)
+Click hyperlink above to access research publications and associated datasets
 
+<br>
 
 ![TSI_small](https://user-images.githubusercontent.com/63081372/146091765-4d183f0d-9cbf-4547-abe7-55848a921174.png)
 ![CIPPS_stacked_logo2small-jpeg](https://user-images.githubusercontent.com/63081372/146091607-d710f7de-a184-4c23-b9c3-38b1dfd53535.jpg)
