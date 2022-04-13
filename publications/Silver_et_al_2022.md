@@ -1,7 +1,3 @@
-# **Koala Research Publications & Associated Data**
-
-<br>
-
 ## A targeted approach to investigating immune genes of an iconic Australian marsupial 
 (link will become active upon publication)
 ### Molecular Ecology Resources; accepted April 2022
