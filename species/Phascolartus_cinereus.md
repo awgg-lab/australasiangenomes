@@ -12,7 +12,7 @@
 
 [Dataset Metadata](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/Koala_Metadata-7-03-2022.csv)
 
-[Koala Research Publications & Associated Datasets]()
+[Koala Research Publications & Associated Datasets](species/koala_research_publications.md)
 
 Download data through hyperlinks on this page or using the [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
   
