@@ -1,4 +1,4 @@
-# **Koala** *(Phascolartus cinereus)*
+# **Koala** *(Phascolarctos cinereus)*
 
 <br>
 
@@ -10,7 +10,7 @@
 
 [Dataset Acknowledgement & Licensing](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/KoalaReadMe.txt)
 
-[Dataset Metadata](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/Koala_Metadata-7-03-2022.csv)
+[Dataset Metadata](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/Koala_Metadata-15-06-2022.csv)
 
 [Koala Research Publications & Associated Datasets](./publications/publications.md)
 
@@ -81,7 +81,11 @@ Data separated by Regions - NSW (New South Wales), QLD (Queensland), VIC (Victor
 
 [NSW_Armidale](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Armidale/)
 
-[NSW_Broadwater](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Broadwater/)
+[NSW_Ballina](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Ballina/)
+
+[NSW_Bellingen](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Bellingen/)
+
+[NSW_Blayney](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Blayney/)
 
 [NSW_Byron](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Byron/)
 
@@ -89,33 +93,45 @@ Data separated by Regions - NSW (New South Wales), QLD (Queensland), VIC (Victor
 
 [NSW_Clarence_Valley](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Clarence_Valley/)
 
+[NSW_Coffs_Harbour](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Coffs_Harbour/)
+
 [NSW_Dubbo](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Dubbo/)
+
+[NSW_Gundagai](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Gundagai/)
 
 [NSW_Gunnedah](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Gunnedah/)
 
-[NSW_Inverell](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Inverell/)
+[NSW_Gwydir](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Gwydir/)
+
+[NSW_Kempsey](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Kempsey/)
 
 [NSW_Kyogle](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Kyogle/)
 
 [NSW_Lismore](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Lismore/)
 
-[NSW_Liverpool_Plains](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Liverpool_Plains/)
+[NSW_Liverpool](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Liverpool/)
 
 [NSW_Monaro](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Monaro/)
 
-[NSW_Pilliga](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Pilliga/)
+[NSW_Narrabri](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Narrabri/)
+
+[NSW_Oberon](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Oberon/)
+
+[NSW_Port Macquarie](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Port_Macquarie/)
 
 [NSW_Port_Stephens](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Port_Stephens/)
 
 [NSW_Richmond_Valley](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Richmond_Valley/)
 
-[NSW_Royal_NP](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Royal_NP/)
+[NSW_Sutherland](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Sutherland/)
 
-[NSW_South_Kempsey](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_South_Kempsey/)
+[NSW_Tweed Heads](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Tweed_Heads/)
 
-[NSW_Southern_Highlands](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Southern_Highlands/)
+[NSW_Warrumbungle](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Warrumbungle/)
 
-[NSW_Wollemi_NP](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Wollemi_NP/)
+[NSW_Wingecaribee](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Wingecaribee/)
+
+[NSW_Wollondilly](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Wollondilly/)
 
 [QLD_Fraser_Coast](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#QLD_Fraser_Coast/)
 
@@ -129,27 +145,35 @@ Data separated by Regions - NSW (New South Wales), QLD (Queensland), VIC (Victor
 
 [QLD_Moreton_Bay_Region](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#QLD_Moreton_Bay_Region/)
 
-[QLD_Noosa](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#QLD_Noosa/)
-
 [QLD_North_Burnett](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#QLD_North_Burnett/)
 
 [QLD_Redlands](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#QLD_Redland/)
+
+[QLD_Somerset](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#QLD_Somerset/)
 
 [QLD_South_Burnett](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#QLD_South_Burnett/)
 
 [QLD_Southern_Downs](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#QLD_Southern_Downs/)
 
+[QLD_Sunshine Coast](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#QLD_Sunshine_Coast/)
+
+[QLD_Tablelands](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#QLD_Tablelands/)
+
 [QLD_Toowoomba](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#QLD_Toowoomba/)
 
 [QLD_Western_Downs](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#QLD_Western_Downs/)
 
-[VIC_Cape_Otway](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#VIC_Cape_Otway/)
+[VIC_Baw Baw](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#VIC_BawBaw/)
+
+[VIC_Colac Otway](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#VIC_Colac_Otway/)
+
+[VIC_East Gippsland](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#VIC_East_Gippsland/)
 
 [VIC_French_Island](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#VIC_French_Island/)
 
-[VIC_Gelantipy](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#VIC_Gelantipy/)
+[VIC_Glenelg](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#VIC_Glenelg/)
 
-[VIC_Highlands](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#VIC_Highlands/)
+[VIC_Moyne](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#VIC_Moyne/)
 
 [VIC_South_Gippsland](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#VIC_South_Gippsland/)
 
