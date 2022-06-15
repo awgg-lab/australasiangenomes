@@ -1,5 +1,5 @@
 ## [A targeted approach to investigating immune genes of an iconic Australian marsupial](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16493)
-(link will become active upon publication)
+
 ### Molecular Ecology; accepted April 2022
 Luke W. Silver, Yuanyuan Cheng, Bonnie L. Quigley, Amy Robbins, Peter Timms, Carolyn J. Hogg, Katherine Belov
 
