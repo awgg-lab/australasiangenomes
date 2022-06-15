@@ -1,6 +1,7 @@
 # **Numbat** *(Myrmecobius fasciatus)* 
 
 [Genome & Transcriptome Data ](https://threatenedspecies.s3.ap-southeast-2.amazonaws.com/index.html) | [NCBI Accession: PRJNA786364](https://www.ncbi.nlm.nih.gov/bioproject/786364)
+
 [Publication:](https://doi.org/10.46471/gigabyte.47)  Emma Peel, Luke Silver, Parice Brandies, Takashi Hayakawa, Katherine Belov, Carolyn J. Hogg, Genome assembly of the numbat (Myrmecobius fasciatus), the only termitivorous marsupial, Gigabyte, 2022 
 
 Download data through hyperlinks above or using the [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
