@@ -17,4 +17,4 @@ taxa(first three letters)_Genus(first three letters)_Species_tissue type_version
 
 <img src = "images/Myrmecobius_fasciatus.jpg" width = 100 align = "center">  [*Myrmecobius fasciatus* (Numbat)](./species/Myrmecobius_fasciatus.md)
 
-<img src = "images/Phascolartus_cinereus.jpg" width = 100 align = "center">  [*Phascolarctos cinereus* (Koala)](./species/Phascolarctos_cinereus.md)
+<img src = "images/Phascolartus_cinereus.jpg" width = 100 align = "center">  [*Phascolarctos cinereus* (Koala)](./species/Phascolarctos cinereus.md)
