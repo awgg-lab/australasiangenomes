@@ -17,45 +17,58 @@
 Download data through hyperlinks on this page or using the [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
   
 ```
-aws s3 sync s3://koalagenomes/ . --no-sign-request
-aws s3 sync s3://koalagenomes/NSW_Armidale .
-aws s3 sync s3://koalagenomes/NSW_Broadwater/ .
-aws s3 sync s3://koalagenomes/NSW_Byron/ .
-aws s3 sync s3://koalagenomes/NSW_Campbelltown/ .
-aws s3 sync s3://koalagenomes/NSW_Clarence_Valley/ .
-aws s3 sync s3://koalagenomes/NSW_Dubbo .
-aws s3 sync s3://koalagenomes/NSW_Gunnedah/ .
-aws s3 sync s3://koalagenomes/NSW_Inverell .
-aws s3 sync s3://koalagenomes/NSW_Kyogle .
-aws s3 sync s3://koalagenomes/NSW_Lismore .
-aws s3 sync s3://koalagenomes/NSW_Liverpool_Plains .
-aws s3 sync s3://koalagenomes/NSW_Monaro/ .
-aws s3 sync s3://koalagenomes/NSW_Pilliga .
-aws s3 sync s3://koalagenomes/NSW_Port_Stephens/ .
-aws s3 sync s3://koalagenomes/NSW_Richmond_Valley .
-aws s3 sync s3://koalagenomes/NSW_Royal_NP .
-aws s3 sync s3://koalagenomes/NSW_Southern_Highlands/ .
-aws s3 sync s3://koalagenomes/NSW_South_Kempsey .
-aws s3 sync s3://koalagenomes/NSW_Wollemi_NP .
-aws s3 sync s3://koalagenomes/QLD_Fraser_Coast .
-aws s3 sync s3://koalagenomes/QLD_Gold_Coast .
-aws s3 sync s3://koalagenomes/QLD_Gympie .
-aws s3 sync s3://koalagenomes/QLD_Livingstone .
-aws s3 sync s3://koalagenomes/QLD_Mackay .
-aws s3 sync s3://koalagenomes/QLD_Moreton_Bay_Region/ .
-aws s3 sync s3://koalagenomes/QLD_Noosa .
-aws s3 sync s3://koalagenomes/QLD_North_Burnett .
-aws s3 sync s3://koalagenomes/QLD_Redland .
-aws s3 sync s3://koalagenomes/QLD_South_Burnett .
-aws s3 sync s3://koalagenomes/QLD_Southern_Downs .
-aws s3 sync s3://koalagenomes/QLD_Toowoomba .
-aws s3 sync s3://koalagenomes/QLD_Western_Downs .
-aws s3 sync s3://koalagenomes/VIC_Cape_Otway .
-aws s3 sync s3://koalagenomes/VIC_French_Island/ .
-aws s3 sync s3://koalagenomes/VIC_Gelantipy .
-aws s3 sync s3://koalagenomes//VIC_Highlands/ .
-aws s3 sync s3://koalagenomes/VIC_South_Gippsland/ .
-aws s3 sync s3://koalagenomes/VIC_Strathbogies/ .
+
+aws s3 sync s3://koalagenomes/ ./
+aws s3 sync s3://koalagenomes/NSW_Armidale/ ./
+aws s3 sync s3://koalagenomes/NSW_Ballina/ ./
+aws s3 sync s3://koalagenomes/NSW_Bellingen/ ./
+aws s3 sync s3://koalagenomes/NSW_Blayney/ ./
+aws s3 sync s3://koalagenomes/NSW_Byron/ ./
+aws s3 sync s3://koalagenomes/NSW_Campbelltown/ ./
+aws s3 sync s3://koalagenomes/NSW_Clarence_Valley/ ./
+aws s3 sync s3://koalagenomes/NSW_Coffs_Harbour/ ./
+aws s3 sync s3://koalagenomes/NSW_Dubbo/ ./
+aws s3 sync s3://koalagenomes/NSW_Gundagai/ ./
+aws s3 sync s3://koalagenomes/NSW_Gunnedah/ ./
+aws s3 sync s3://koalagenomes/NSW_Gwydir/ ./
+aws s3 sync s3://koalagenomes/NSW_Kempsey/ ./
+aws s3 sync s3://koalagenomes/NSW_Kyogle/ ./
+aws s3 sync s3://koalagenomes/NSW_Lismore/ ./
+aws s3 sync s3://koalagenomes/NSW_Liverpool/ ./
+aws s3 sync s3://koalagenomes/NSW_Monaro/ ./
+aws s3 sync s3://koalagenomes/NSW_Narrabri/ ./
+aws s3 sync s3://koalagenomes/NSW_Oberon/ ./
+aws s3 sync s3://koalagenomes/NSW_Port_Macquarie/ ./
+aws s3 sync s3://koalagenomes/NSW_Port_Stephens/ ./
+aws s3 sync s3://koalagenomes/NSW_Richmond_Valley/ ./
+aws s3 sync s3://koalagenomes/NSW_Sutherland/ ./
+aws s3 sync s3://koalagenomes/NSW_Tweed_Heads/ ./
+aws s3 sync s3://koalagenomes/NSW_Warrumbungle/ ./
+aws s3 sync s3://koalagenomes/NSW_Wingecaribee/ ./
+aws s3 sync s3://koalagenomes/NSW_Wollondilly/ ./
+aws s3 sync s3://koalagenomes/QLD_Fraser_Coast/ ./
+aws s3 sync s3://koalagenomes/QLD_Gold_Coast/ ./
+aws s3 sync s3://koalagenomes/QLD_Gympie/ ./
+aws s3 sync s3://koalagenomes/QLD_Livingstone/ ./
+aws s3 sync s3://koalagenomes/QLD_Mackay/ ./
+aws s3 sync s3://koalagenomes/QLD_Moreton_Bay_Region/ ./
+aws s3 sync s3://koalagenomes/QLD_North_Burnett/ ./
+aws s3 sync s3://koalagenomes/QLD_Redland/ ./
+aws s3 sync s3://koalagenomes/QLD_Somerset/ ./
+aws s3 sync s3://koalagenomes/QLD_South_Burnett/ ./
+aws s3 sync s3://koalagenomes/QLD_Southern_Downs/ ./
+aws s3 sync s3://koalagenomes/QLD_Sunshine_Coast/ ./
+aws s3 sync s3://koalagenomes/QLD_Tablelands/ ./
+aws s3 sync s3://koalagenomes/QLD_Toowoomba/ ./
+aws s3 sync s3://koalagenomes/QLD_Western_Downs/ ./
+aws s3 sync s3://koalagenomes/VIC_BawBaw/ ./
+aws s3 sync s3://koalagenomes/VIC_Colac_Otway/ ./
+aws s3 sync s3://koalagenomes/VIC_East_Gippsland/ ./
+aws s3 sync s3://koalagenomes/VIC_French_Island/ ./
+aws s3 sync s3://koalagenomes/VIC_Glenelg/ ./
+aws s3 sync s3://koalagenomes/VIC_Moyne/ ./
+aws s3 sync s3://koalagenomes/VIC_South_Gippsland/ ./
+aws s3 sync s3://koalagenomes/VIC_Strathbogies/ ./
 
 
 ```
