@@ -28,6 +28,7 @@ aws s3 sync s3://koalagenomes/NSW_Campbelltown/ ./
 aws s3 sync s3://koalagenomes/NSW_Clarence_Valley/ ./
 aws s3 sync s3://koalagenomes/NSW_Coffs_Harbour/ ./
 aws s3 sync s3://koalagenomes/NSW_Dubbo/ ./
+aws s3 sync s3://koalagenomes/NSW_Greater_Blue_Mountains/ ./
 aws s3 sync s3://koalagenomes/NSW_Gundagai/ ./
 aws s3 sync s3://koalagenomes/NSW_Gunnedah/ ./
 aws s3 sync s3://koalagenomes/NSW_Gwydir/ ./
@@ -37,7 +38,6 @@ aws s3 sync s3://koalagenomes/NSW_Lismore/ ./
 aws s3 sync s3://koalagenomes/NSW_Liverpool/ ./
 aws s3 sync s3://koalagenomes/NSW_Monaro/ ./
 aws s3 sync s3://koalagenomes/NSW_Narrabri/ ./
-aws s3 sync s3://koalagenomes/NSW_Oberon/ ./
 aws s3 sync s3://koalagenomes/NSW_Port_Macquarie/ ./
 aws s3 sync s3://koalagenomes/NSW_Port_Stephens/ ./
 aws s3 sync s3://koalagenomes/NSW_Richmond_Valley/ ./
@@ -97,6 +97,8 @@ Data separated by Regions - NSW (New South Wales), QLD (Queensland), VIC (Victor
 
 [NSW_Dubbo](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Dubbo/)
 
+[NSW_Greater Blue Mountains](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Greater_Blue_Mountains/)
+
 [NSW_Gundagai](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Gundagai/)
 
 [NSW_Gunnedah](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Gunnedah/)
@@ -114,8 +116,6 @@ Data separated by Regions - NSW (New South Wales), QLD (Queensland), VIC (Victor
 [NSW_Monaro](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Monaro/)
 
 [NSW_Narrabri](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Narrabri/)
-
-[NSW_Oberon](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Oberon/)
 
 [NSW_Port Macquarie](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Port_Macquarie/)
 
