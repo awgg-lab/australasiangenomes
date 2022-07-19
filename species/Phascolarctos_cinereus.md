@@ -119,7 +119,7 @@ Data separated by Regions - NSW (New South Wales), QLD (Queensland), VIC (Victor
 
 [NSW_Narrabri](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Narrabri/)
 
-[NSW_Narrandera](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Narrandera)
+[NSW_Narrandera](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Narrandera/)
 
 [NSW_Port Macquarie](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Port_Macquarie/)
 
