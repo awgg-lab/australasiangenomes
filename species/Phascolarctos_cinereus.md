@@ -10,7 +10,7 @@
 
 [Dataset Acknowledgement & Licensing](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/KoalaReadMe.txt)
 
-[Dataset Metadata](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/Koala_Metadata-15-06-2022.csv)
+[Dataset Metadata](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/Koala_Metadata-19-07-2022.csv)
 
 [Koala Research Publications & Associated Datasets](../publications.md)
 
@@ -38,10 +38,12 @@ aws s3 sync s3://koalagenomes/NSW_Lismore/ ./
 aws s3 sync s3://koalagenomes/NSW_Liverpool/ ./
 aws s3 sync s3://koalagenomes/NSW_Monaro/ ./
 aws s3 sync s3://koalagenomes/NSW_Narrabri/ ./
+aws s3 sync s3://koalagenomes/NSW_Narrandera/ ./
 aws s3 sync s3://koalagenomes/NSW_Port_Macquarie/ ./
 aws s3 sync s3://koalagenomes/NSW_Port_Stephens/ ./
 aws s3 sync s3://koalagenomes/NSW_Richmond_Valley/ ./
 aws s3 sync s3://koalagenomes/NSW_Sutherland/ ./
+aws s3 sync s3://koalagenomes/NSW_Tenterfield/ ./
 aws s3 sync s3://koalagenomes/NSW_Tweed_Heads/ ./
 aws s3 sync s3://koalagenomes/NSW_Warrumbungle/ ./
 aws s3 sync s3://koalagenomes/NSW_Wingecaribee/ ./
@@ -117,6 +119,8 @@ Data separated by Regions - NSW (New South Wales), QLD (Queensland), VIC (Victor
 
 [NSW_Narrabri](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Narrabri/)
 
+[NSW_Narrandera](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Narrandera)
+
 [NSW_Port Macquarie](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Port_Macquarie/)
 
 [NSW_Port_Stephens](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Port_Stephens/)
@@ -124,6 +128,8 @@ Data separated by Regions - NSW (New South Wales), QLD (Queensland), VIC (Victor
 [NSW_Richmond_Valley](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Richmond_Valley/)
 
 [NSW_Sutherland](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Sutherland/)
+
+[NSW_Tenterfield](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Tenterfield/)
 
 [NSW_Tweed Heads](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Tweed_Heads/)
 
