@@ -19,6 +19,7 @@ Download data through hyperlinks on this page or using the [AWS Command Line Int
 ```
 
 aws s3 sync s3://koalagenomes/ ./
+aws s3 sync s3://koalagenomes/Captive/ ./
 aws s3 sync s3://koalagenomes/NSW_Armidale/ ./
 aws s3 sync s3://koalagenomes/NSW_Ballina/ ./
 aws s3 sync s3://koalagenomes/NSW_Bellingen/ ./
@@ -68,6 +69,7 @@ aws s3 sync s3://koalagenomes/VIC_Colac_Otway/ ./
 aws s3 sync s3://koalagenomes/VIC_East_Gippsland/ ./
 aws s3 sync s3://koalagenomes/VIC_French_Island/ ./
 aws s3 sync s3://koalagenomes/VIC_Glenelg/ ./
+aws s3 sync s3://koalagenomes/VIC_Moira/ ./
 aws s3 sync s3://koalagenomes/VIC_Moyne/ ./
 aws s3 sync s3://koalagenomes/VIC_South_Gippsland/ ./
 aws s3 sync s3://koalagenomes/VIC_Strathbogies/ ./
@@ -80,6 +82,8 @@ aws s3 sync s3://koalagenomes/VIC_Strathbogies/ ./
 Data separated by Regions - NSW (New South Wales), QLD (Queensland), VIC (Victoria)
 
 [All locations](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html)
+
+[Captive](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#Captive/)
 
 [NSW_Armidale](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#NSW_Armidale/)
 
@@ -178,6 +182,8 @@ Data separated by Regions - NSW (New South Wales), QLD (Queensland), VIC (Victor
 [VIC_French_Island](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#VIC_French_Island/)
 
 [VIC_Glenelg](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#VIC_Glenelg/)
+
+[VIC_Moira](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#VIC_Moira/)
 
 [VIC_Moyne](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#VIC_Moyne/)
 
