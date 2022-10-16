@@ -10,7 +10,7 @@
 
 [Dataset Acknowledgement & Licensing](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/KoalaReadMe.txt)
 
-[Dataset Metadata](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/Koala_Metadata-10-10-2022.csv)
+[Dataset Metadata](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/Koala_Metadata_10_10_2022.csv)
 
 [Koala Research Publications & Associated Datasets](../publications.md)
 
