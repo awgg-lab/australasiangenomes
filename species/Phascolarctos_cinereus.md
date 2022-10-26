@@ -8,7 +8,7 @@
 
 ## [Resequenced Genomes](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html)
 
-[Dataset Acknowledgement & Licensing](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/KoalaReadMe.txt)
+[Dataset Acknowledgement & Licensing](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/Koala_Licence_Agreement.pdf)
 
 [Dataset Metadata](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/Koala_Metadata-19-10-2022.csv)
 
