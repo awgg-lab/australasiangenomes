@@ -13,7 +13,6 @@ aws s3 cp s3://threatenedspecies/Cryptoblepharus_egeriae/rCryege1.pri.20221122.f
 aws s3 cp s3://threatenedspecies/Cryptoblepharus_egeriae/rCryege1.fgenesh.20221122.gff3 .
 aws s3 cp s3://threatenedspecies/Cryptoblepharus_egeriae/README-AWS.txt .
 aws s3 sync s3://threatenedspecies/Cryptoblepharus_egeriae/ .
-
 ```
 
 <br>
