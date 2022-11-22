@@ -7,12 +7,12 @@
 Download data through hyperlinks above or using the [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
   
 ```
-aws s3 cp s3://threatenedspecies/Lepidodactylus_listeri/Leplis_md5sum.txt .
-aws s3 cp s3://threatenedspecies/Lepidodactylus_listeri/rLeplis1.global.20221122.fasta.gz .
-aws s3 cp s3://threatenedspecies/Lepidodactylus_listeri/rLeplis1.pri.20221122.fasta.gz .
-aws s3 cp s3://threatenedspecies/Lepidodactylus_listeri/rLeplis1.fgenesh.20221122.gff3 .
-aws s3 cp s3://threatenedspecies/Lepidodactylus_listeri/README-AWS.txt .
-aws s3 sync s3://threatenedspecies/Lepidodactylus_listeri/ .
+aws s3 cp --no-sign-request s3://threatenedspecies/Lepidodactylus_listeri/Leplis_md5sum.txt .
+aws s3 cp --no-sign-request s3://threatenedspecies/Lepidodactylus_listeri/rLeplis1.global.20221122.fasta.gz .
+aws s3 cp --no-sign-request s3://threatenedspecies/Lepidodactylus_listeri/rLeplis1.pri.20221122.fasta.gz .
+aws s3 cp --no-sign-request s3://threatenedspecies/Lepidodactylus_listeri/rLeplis1.fgenesh.20221122.gff3 .
+aws s3 cp --no-sign-request s3://threatenedspecies/Lepidodactylus_listeri/README-AWS.txt .
+aws s3 sync --no-sign-request s3://threatenedspecies/Lepidodactylus_listeri/ .
 ```
 
 <br>
