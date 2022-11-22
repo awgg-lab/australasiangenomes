@@ -1,5 +1,7 @@
 # **Research Publications & Associated Data**
 
+[Home Page](index.md)
+
 <br>
 
 [Best genome sequencing strategies for annotation of complex immune gene families in wildlife](./publications/Peel_et_al_2022a.md) GigaScience (2022)
