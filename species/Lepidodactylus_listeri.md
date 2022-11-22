@@ -19,8 +19,8 @@ aws s3 sync s3://threatenedspecies/Lepidodactylus_listeri/ .
 
 | Assembly Statistics |  |
 |:--- | --- |
-| Assembly    | PacBio HiFi + HiC |
-| Assembler program |  hifiasm v0.16 |
+| Assembly | PacBio HiFi + HiC |
+| Assembler program | hifiasm v0.16 |
 | Genome size | 2.35 GB |
 | #contigs | 381 |
 | Contig N50 | 72.29 Mb |
@@ -29,6 +29,7 @@ aws s3 sync s3://threatenedspecies/Lepidodactylus_listeri/ .
 | Largest Scaffold | 159.32 Mb |
 | Largest Contig | 159.32 Mb |
 | % genome in scaffolds | 96.2% in scaffolds > 10 Mb |
+
 <br>
 
 | **BUSCO** | **v5.4.3 vertebrata odb10** |
