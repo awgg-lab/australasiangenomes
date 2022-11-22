@@ -7,18 +7,11 @@ The biodiversity crisis and increasing impact of wildlife disease on animal and 
 Genome quality is directly linked to our ability to annotate complex immune gene families, with long reads and scaffolding technologies required to reassemble immune gene clusters and elucidate evolution, organisation, and true gene content of the immune repertoire. Draft-quality genomes generated from short reads with HiC or 10× Chromium linked reads were unable to achieve this. Despite mammalian BUSCOv5 scores of up to 94.1% amongst the 6 genomes, automated annotation pipelines incorrectly annotated up to 59% of manually annotated immune genes regardless of assembly quality or method of automated annotation.
 Our results demonstrate that long reads and scaffolding technologies, alongside manual annotation, are required to accurately study the immune gene repertoire of wildlife species.
 
-### [Open Dataset - reference genomes](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/index.html#Investigating_immune_genes_of_the_iconic_koala/)
+### [Open Dataset - numbat genome and transcriptome](./species/Myrmecobius_fasciatus.md)
+### [Open Dataset - woylie genome and transcriptome](./species/Bettongia_penicillata_ogilbyi.md)
 
 Download data through hyperlink above or using the [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
   
-```
-aws s3 sync s3://koalagenomes/Investigating_immune_genes_of_the_iconic_koala/.
-aws s3 sync s3://koalagenomes/Investigating_immune_genes_of_the_iconic_koala/DArTSeq/ .
-aws s3 sync s3://koalagenomes/Investigating_immune_genes_of_the_iconic_koala/Target_Enrichment/ .
-
-
-```
-
 <br>
 
-This data was produced with the generous contribution of the Presbyterian Ladies' College Sydney and NCRIS funded Bioplatforms Australia. The work was supported by the [Australian Fgenesh++ Service](https://www.biocommons.org.au/fgenesh-plus-plus) provided by the Australian BioCommons and the Pawsey Supercomputing Research Centre.
+This study was supported by the generous contribution of the Presbyterian Ladies' College Sydney and NCRIS funded Bioplatforms Australia. The work was supported by the [Australian Fgenesh++ Service](https://www.biocommons.org.au/fgenesh-plus-plus) provided by the Australian BioCommons and the Pawsey Supercomputing Research Centre.
