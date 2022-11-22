@@ -7,7 +7,7 @@
 ## Woylie
 [Metapopulation management of a critically endangered marsupial in the age of genomics](./publications/Farquharson_et_al_2021.md) Global Ecology and Conservation (2021)
 
-[A reference genome for the critically endangered woylie, _Bettongia penicillata ogilbyi___](./publications/Peel_et_al_2021.md) Gigabyte (2021)
+[A reference genome for the critically endangered woylie, _Bettongia penicillata ogilbyi_](./publications/Peel_et_al_2021.md) Gigabyte (2021)
 
 ## Numbat
 [Genome assembly of the numbat (Myrmecobius fasciatus), the only termitivorous marsupial](./publications/Peel_et_al_2022b.md) Gigabyte (2022)
