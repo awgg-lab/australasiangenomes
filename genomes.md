@@ -17,6 +17,8 @@ taxa(first three letters)_Genus(first three letters)_Species_tissue type_version
 
 <img src = "images/Cryptoblepharus_egeriae.jpg" width = 100 align = "center">  [*Cryptoblepharus egeriae* (Christmas Island blue-tailed skink)](./species/Cryptoblepharus_egeriae.md)
 
+<img src = "images/Lepidodactylus_listeri.jpg" width = 100 align = "center">  [*Lepidodactylus listeri* (Lister's gecko)](./species/Lepidodactylus_listeri.md)
+
 <img src = "images/Myrmecobius_fasciatus.jpg" width = 100 align = "center">  [*Myrmecobius fasciatus* (Numbat)](./species/Myrmecobius_fasciatus.md)
 
 <img src = "images/Phascolartus_cinereus.jpg" width = 100 align = "center">  [*Phascolarctos cinereus* (Koala)](./species/Phascolarctos_cinereus.md)
