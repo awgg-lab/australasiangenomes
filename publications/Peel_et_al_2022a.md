@@ -7,8 +7,8 @@ The biodiversity crisis and increasing impact of wildlife disease on animal and 
 Genome quality is directly linked to our ability to annotate complex immune gene families, with long reads and scaffolding technologies required to reassemble immune gene clusters and elucidate evolution, organisation, and true gene content of the immune repertoire. Draft-quality genomes generated from short reads with HiC or 10× Chromium linked reads were unable to achieve this. Despite mammalian BUSCOv5 scores of up to 94.1% amongst the 6 genomes, automated annotation pipelines incorrectly annotated up to 59% of manually annotated immune genes regardless of assembly quality or method of automated annotation.
 Our results demonstrate that long reads and scaffolding technologies, alongside manual annotation, are required to accurately study the immune gene repertoire of wildlife species.
 
-### [Open Dataset - numbat genome and transcriptome](./species/Myrmecobius_fasciatus.md)
-### [Open Dataset - woylie genome and transcriptome](./species/Bettongia_penicillata_ogilbyi.md)
+### [Open Dataset - numbat genome and transcriptome](~/species/Myrmecobius_fasciatus.md)
+### [Open Dataset - woylie genome and transcriptome](~/species/Bettongia_penicillata_ogilbyi.md)
 
 Download data through hyperlink above or using the [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
   
