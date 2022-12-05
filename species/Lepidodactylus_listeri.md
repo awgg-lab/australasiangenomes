@@ -2,7 +2,7 @@
 
 [Genome & Transcriptome Data ](https://threatenedspecies.s3.ap-southeast-2.amazonaws.com/index.html) | 
 
-[Publication:]()  Tristram O. Dodge, Katherine A. Farquharson, Claire Ford, Lisa Cavanagh, Kristen Schubert, Molly Schumer, Katherine Belov, Carolyn J. Hogg, Genomes of two Extinct-in-the-Wild reptiles from Christmas Island reveal distinct evolutionary histories and conservation insights, BioRxiv (preprint)
+[Publication:](https://doi.org/10.22541/au.166974487.73559017/v1)  Tristram O. Dodge, Katherine A. Farquharson, Claire Ford, Lisa Cavanagh, Kristen Schubert, Molly Schumer, Katherine Belov, Carolyn J. Hogg, Genomes of two Extinct-in-the-Wild reptiles from Christmas Island reveal distinct evolutionary histories and conservation insights, Authorea. November 29, 2022 (Preprint).
 
 Download data through hyperlinks above or using the [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
   
