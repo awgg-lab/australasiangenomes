@@ -8,9 +8,9 @@ Download data through hyperlinks above or using the [AWS Command Line Interface]
   
 ```
 aws s3 cp --no-sign-request s3://threatenedspecies/Taudactylus_pleione/Tauple_md5sum.txt .
-aws s3 cp --no-sign-request s3://threatenedspecies/Taudactylus_pleione/aTauple.global.20223101.fasta.gz .
-aws s3 cp --no-sign-request s3://threatenedspecies/Taudactylus_pleione/aTauple.pri.20223101.fasta.gz .
-aws s3 cp --no-sign-request s3://threatenedspecies/Taudactylus_pleione/aTauple.fgenesh.20223101.gff3 .
+aws s3 cp --no-sign-request s3://threatenedspecies/Taudactylus_pleione/aTauple2.global.20223101.fasta.gz .
+aws s3 cp --no-sign-request s3://threatenedspecies/Taudactylus_pleione/aTauple2.pri.20223101.fasta.gz .
+aws s3 cp --no-sign-request s3://threatenedspecies/Taudactylus_pleione/aTauple2.fgenesh.20223101.gff3 .
 aws s3 cp --no-sign-request s3://threatenedspecies/Taudactylus_pleione/README-AWS.txt .
 aws s3 sync --no-sign-request s3://threatenedspecies/Taudactylus_pleione/ .
 ```
