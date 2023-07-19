@@ -16,3 +16,9 @@
 
 ## Koalas
 [A targeted approach to investigating immune genes of an iconic Australian marsupial](./publications/Silver_et_al_2022.md) Molecular Ecology (2022)
+
+## Chistmas Island blue-tailed skink and Lister's gecko
+[Genomes of two Extinct-in-the-Wild reptiles from Christmas Island reveal distinct evolutionary histories and conservation insights](./publications/Dodge_et_al_2023.md) Molecular Ecology (2023)
+
+## Red-tailed phascogale
+[Adaptive Genetic Management of a Reintroduction Program from Captive Breeding to Metapopulation Management of an Arboreal Marsupial](./publications/Pierson_et_al_2023.md) Diversity (2023)
