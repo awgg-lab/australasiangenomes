@@ -36,4 +36,4 @@ aws s3 sync --no-sign-request s3://threatenedspecies/Mixophyes_australis/ .
 | Fragmented |  |
 | Missing |  |
 
-This genome data was supported by funding from the Threatened Species Initiative (TSI), NCRIS funded Bioplatforms Australia, and the Australian Research Council Centre of Excellence for Innovations in Peptide and Protein Science (CE200100012). Image was supplied by 
+This genome data was supported by funding from the Threatened Species Initiative (TSI), NCRIS funded Bioplatforms Australia, and the Australian Research Council Centre of Excellence for Innovations in Peptide and Protein Science (CE200100012). Image was supplied by Zoos Victoria
