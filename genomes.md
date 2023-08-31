@@ -25,4 +25,4 @@ taxa(first three letters)_Genus(first three letters)_Species_tissue type_version
 
 <img src = "images/Taudactylus_pleione.jpg" width = 100 align = "center">  [*Taudactylus pleione* (Kroombit tinkerfrog)](./species/Taudactylus_pleione.md)
 
-<img src = "images/Image-Coming-Soon.jpg" width = 100 align = "center">  [*Phascogale Calura* (Red-tailed phascogale)](./species/Phascogale_calura.md)
+<img src = "images/Phascogale_calura.jpg" width = 100 align = "center">  [*Phascogale Calura* (Red-tailed phascogale)](./species/Phascogale_calura.md)
