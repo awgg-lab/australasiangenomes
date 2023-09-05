@@ -27,3 +27,5 @@ Image courtesy of Sabrina Trocini
 <img src = "images/Taudactylus_pleione.jpg" width = 100 align = "center">  [*Taudactylus pleione* (Kroombit tinkerfrog)](./species/Taudactylus_pleione.md) Image courtesy of Currumbin Wildlife Sanctuary
 
 <img src = "images/Phascogale calura.jpg" width = 100 align = "center">  [*Phascogale calura* (Red-tailed phascogale)](./species/Phascogale_calura.md) Image courtesy of Brad Leue Photography
+
+<img src = "images/blank" width = 100 align = "center">  [*Carcharias taurus* (Grey nurse shark)](./species/Phascogale_calura.md)
