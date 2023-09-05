@@ -28,4 +28,4 @@ Image courtesy of Sabrina Trocini
 
 <img src = "images/Phascogale calura.jpg" width = 100 align = "center">  [*Phascogale calura* (Red-tailed phascogale)](./species/Phascogale_calura.md) Image courtesy of Brad Leue Photography
 
-<img src = "images/blank" width = 100 align = "center">  [*Carcharias taurus* (Grey nurse shark)](./species/Phascogale_calura.md)
+<img src = "images/blank" width = 100 align = "center">  [*Carcharias taurus* (Grey nurse shark)](./species/Carcharias_taurus.md)
