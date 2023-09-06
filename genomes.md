@@ -28,4 +28,6 @@ Image courtesy of Sabrina Trocini
 
 <img src = "images/Phascogale calura.jpg" width = 100 align = "center">  [*Phascogale calura* (Red-tailed phascogale)](./species/Phascogale_calura.md) Image courtesy of Brad Leue Photography
 
-<img src = "images/Lathamus_discolor.jpg" width = 100 align = "center">  [*Lathamus discolor* (Swift Parrot)](./species/Lathamus_discolor.md) Image courtesy of Dejan Stojanovic
+<img src = "images/Lathamus_discolor.jpg" width = 100 align = "center">  [*Lathamus discolor* (Swift parrot)](./species/Lathamus_discolor.md) Image courtesy of Dejan Stojanovic
+
+<img src = "images/Image-Coming-Soon.png" width = 100 align = "center">  [*Carcharias taurus* (Grey nurse shark)](./species/Carcharias_taurus.md)
