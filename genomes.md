@@ -12,7 +12,7 @@ taxa(first three letters)_Genus(first three letters)_Species_primary/seconday_ve
 taxa(first three letters)_Genus(first three letters)_Species_tissue type_version number_NCBI submission date
 ```
 
-<img src = "images/Acanthornis_magnus_greenianus.jpg" width = 100 align = "center">  [*Acanthornis magna greeniana* (King island scrubtit)](./species/Acanthornis_magna_greeniana.md)
+<img src = "images/Acanthornis_magnus_greenianus.jpg" width = 100 align = "center">  [*Acanthornis magna greeniana* (King island scrubtit)](./species/Acanthornis_magna_greeniana.md) Image courtesy of Catherine Young
 
 <img src = "images/Bettongia_pencillata.jpg" width = 100 align = "center">  [*Bettongia penicillata ogilbyi* (Woylie)](./species/Bettongia_penicillata_ogilbyi.md)
 Image courtesy of Sabrina Trocini
