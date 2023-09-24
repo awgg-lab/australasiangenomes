@@ -1,6 +1,7 @@
 # **Southern Stuttering Frog** *(Mixophyes australis)* 
 
-[Genome & Transcriptome Data ](https://threatenedspecies.s3.ap-southeast-2.amazonaws.com/index.html) | NCBI Accession :
+[Genome & Transcriptome Data ](https://threatenedspecies.s3.ap-southeast-2.amazonaws.com/index.html) | NCBI Accession : PRJNA991157]
+
 
 [Publication:] Simon Tang, Emma Peel, Katherine Belov, Carolyn J. Hogg, Katherine A. Farquharson, Multi-omics resources for the Australian southern stuttering frog (Mixophyes australis) reveal assorted antimicrobial peptides
 
