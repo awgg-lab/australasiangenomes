@@ -25,6 +25,8 @@ Image courtesy of Sabrina Trocini
 
 <img src = "images/Lepidodactylus_listeri.jpg" width = 100 align = "center">  [*Lepidodactylus listeri* (Lister's gecko)](./species/Lepidodactylus_listeri.md) Image courtesy of Tristam Dodge
 
+<img src = "images/Mixophyes_australis.jpg" width = 100 align = "center">  [*Mixophyes Australis* (Southern Stuttering Frog)](./species/Mixophyes+australis.md) Image courtesy of Zoos Victoria
+
 <img src = "images/Myrmecobius_fasciatus.jpg" width = 100 align = "center">  [*Myrmecobius fasciatus* (Numbat)](./species/Myrmecobius_fasciatus.md) Image courtesy of Wayne Lawler
 
 <img src = "images/Phascogale calura.jpg" width = 100 align = "center">  [*Phascogale calura* (Red-tailed phascogale)](./species/Phascogale_calura.md) Image courtesy of Brad Leue Photography
