@@ -2,7 +2,7 @@
 
 [Genome & Transcriptome Data ](https://threatenedspecies.s3.ap-southeast-2.amazonaws.com/index.html) | 
 
-[Publication:]
+[Publication:] Simon Tang, Emma Peel, Katherine Belov, Carolyn J. Hogg, Katherine A. Farquharson, Multi-omics resources for the Australian southern stuttering frog (Mixophyes australis) reveal assorted antimicrobial peptides
 
 Download data through hyperlinks above or using the [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
   
