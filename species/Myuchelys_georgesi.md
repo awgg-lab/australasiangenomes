@@ -21,20 +21,20 @@ aws s3 sync --no-sign-request s3://threatenedspecies/CMyuchelys_georgesi/ .
 |:--- | --- |
 | Assembly    | PacBio HiFi |
 | Assembler program |  hifiasm v0.16 |
-| Genome size |B |
-| #contigs |  |
-| Contig N50 |  |
-| Largest Contig | |
+| Genome size |2.0Gb |
+| # Scaffold | 129 |
+| Scaffold N50 | 123.5Mb |
+| Largest Scaffold | 311.5Mb|
 
 <br>
 
-| **BUSCO** | **v5.4.3 vertebrata odb10** |
+| **BUSCO** | **v5.2.2 vertebrata odb10** |
 |:--- | --- |
 | Genes    |  |
-| Complete    |  |
-| Single Copy |   |
-| Duplicated |  |
-| Fragmented |  |
-| Missing |  |
+| Complete    | 95.4% |
+| Single Copy |  94.9% |
+| Duplicated | 0.5% |
+| Fragmented | 2.1% |
+| Missing | 2.5% |
 
 This genome data was supported by funding from the Threatened Species Initiative (TSI), NCRIS funded Bioplatforms Australia, and the Australian Research Council Centre of Excellence for Innovations in Peptide and Protein Science (CE200100012). Image was supplied by 
