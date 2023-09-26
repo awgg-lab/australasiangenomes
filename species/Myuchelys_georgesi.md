@@ -38,4 +38,4 @@ aws s3 sync --no-sign-request s3://threatenedspecies/CMyuchelys_georgesi/ .
 | Fragmented | 2.1% |
 | Missing | 2.5% |
 
-This genome data was supported by funding from the Threatened Species Initiative (TSI), NCRIS funded Bioplatforms Australia, and the Australian Research Council Centre of Excellence for Innovations in Peptide and Protein Science (CE200100012). Image was supplied by 
+This genome data was supported by funding from the Threatened Species Initiative (TSI), NCRIS funded Bioplatforms Australia, and the Australian Research Council Centre of Excellence for Innovations in Peptide and Protein Science (CE200100012). Image was supplied by Shane Ruming
