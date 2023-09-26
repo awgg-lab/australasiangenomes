@@ -2,7 +2,8 @@
 
 [Genome & Transcriptome Data ](https://threatenedspecies.s3.ap-southeast-2.amazonaws.com/index.html) | 
 
-[Publication:]
+[Publication:] Holly Nelson, Katherine Farquharson, Arthur Georges, Elspeth McLennan, Jane DeGabriel, Melissa Giese, Christopher Ormond, Michael McFadden, Adam Skidmore, Katherine Belov, Carolyn Hogg, A genomic framework to assist conservation breeding and reintroduction success: A case study of a critically endangered turtle
+
 
 Download data through hyperlinks above or using the [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
   
@@ -30,7 +31,7 @@ aws s3 sync --no-sign-request s3://threatenedspecies/CMyuchelys_georgesi/ .
 
 | **BUSCO** | **v5.2.2 vertebrata odb10** |
 |:--- | --- |
-| Genes    |  |
+| Genes    | 3354 |
 | Complete    | 95.4% |
 | Single Copy |  94.9% |
 | Duplicated | 0.5% |
