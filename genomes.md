@@ -23,7 +23,7 @@ Image courtesy of Sabrina Trocini
 
 <img src = "images/Lathamus_discolor.jpg" width = 100 align = "center">  [*Lathamus discolor* (Swift parrot)](./species/Lathamus_discolor.md) Image courtesy of Dejan Stojanovic
 
-<img src = "images/Lepidodactylus_listeri.jpg" width = 100 align = "center">  [*Lepidodactylus listeri* (Lister's gecko)](./species/Lepidodactylus_listeri.md) Image courtesy of Tristram Dodge
+<img src = "images/Lepidodactylus_listeri.jpg" width = 100 align = "center">  [*Lepidodactylus listeri* (Lister's gecko)](./species/Lepidodactylus_listeri.md) Image courtesy of Lisa Cavanagh
 
 <img src = "images/Mixophyes_australis.jpg" width = 100 align = "center">  [*Mixophyes Australis* (Southern Stuttering Frog)](./species/Mixophyes_australis.md) Image courtesy of Zoos Victoria
 
