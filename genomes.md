@@ -29,7 +29,7 @@ Image courtesy of Sabrina Trocini
 
 <img src = "images/Myrmecobius_fasciatus.jpg" width = 100 align = "center">  [*Myrmecobius fasciatus* (Numbat)](./species/Myrmecobius_fasciatus.md) Image courtesy of Wayne Lawler
 
-<img src = "images/Myuchelys_georgesi.jpg" width = 100 align = "center">  [*Myuchelys georgesi* (Bellinger River snapping turtle)](./species/Myuchelys_geogesis.md) Image courtesy of Shane Ruming
+<img src = "images/Myuchelys_georgesi.jpg" width = 100 align = "center">  [*Myuchelys georgesi* (Bellinger River snapping turtle)](./species/Myuchelys_geogesi.md) Image courtesy of Shane Ruming
 
 <img src = "images/Phascogale calura.jpg" width = 100 align = "center">  [*Phascogale calura* (Red-tailed phascogale)](./species/Phascogale_calura.md) Image courtesy of Brad Leue Photography
 
