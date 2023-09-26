@@ -19,7 +19,7 @@ Image courtesy of Sabrina Trocini
 
 <img src = "images/Image-Coming-Soon.png" width = 100 align = "center">  [*Carcharias taurus* (Grey nurse shark)](./species/Carcharias_taurus.md)
 
-<img src = "images/Cryptoblepharus_egeriae.jpg" width = 100 align = "center">  [*Cryptoblepharus egeriae* (Christmas Island blue-tailed skink)](./species/Cryptoblepharus_egeriae.md) Image courtesy of Tristam Dodge
+<img src = "images/Cryptoblepharus_egeriae.jpg" width = 100 align = "center">  [*Cryptoblepharus egeriae* (Christmas Island blue-tailed skink)](./species/Cryptoblepharus_egeriae.md) Image courtesy of Tristram Dodge
 
 <img src = "images/Lathamus_discolor.jpg" width = 100 align = "center">  [*Lathamus discolor* (Swift parrot)](./species/Lathamus_discolor.md) Image courtesy of Dejan Stojanovic
 
