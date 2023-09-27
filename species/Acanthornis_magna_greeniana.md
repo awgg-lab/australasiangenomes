@@ -1,4 +1,4 @@
-# **King Island scrubtit** *(Acanthornis magna greeniana)* 
+# **Tasmanian scrubtit** *(Acanthornis magna magna)* 
 
 [Genome & Transcriptome Data ](https://threatenedspecies.s3.ap-southeast-2.amazonaws.com/index.html) | 
 
@@ -7,12 +7,12 @@
 Download data through hyperlinks above or using the [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
   
 ```
-aws s3 cp --no-sign-request s3://threatenedspecies/Acanthornis_magna_greeniana/Acamag_md5sum.txt .
-aws s3 cp --no-sign-request s3://threatenedspecies/Acanthornis_magna_greeniana/bAcamag.global.20230524.fasta.gz .
-aws s3 cp --no-sign-request s3://threatenedspecies/Acanthornis_magna_greeniana/bAcamag1.pri.20230524.fasta.gz .
-aws s3 cp --no-sign-request s3://threatenedspecies/Acanthornis_magna_greeniana/bAcamag1.fgenesh.20230524.gff3 .
-aws s3 cp --no-sign-request s3://threatenedspecies/Acanthornis_magna_greeniana/README-AWS.txt .
-aws s3 sync --no-sign-request s3://threatenedspecies/Acanthornis_magna_greeniana/ .
+aws s3 cp --no-sign-request s3://threatenedspecies/Acanthornis_magna_magna/Acamag_md5sum.txt .
+aws s3 cp --no-sign-request s3://threatenedspecies/Acanthornis_magna_magna/bAcamag.global.20230524.fasta.gz .
+aws s3 cp --no-sign-request s3://threatenedspecies/Acanthornis_magna_magna/bAcamag1.pri.20230524.fasta.gz .
+aws s3 cp --no-sign-request s3://threatenedspecies/Acanthornis_magna_magna/bAcamag1.fgenesh.20230524.gff3 .
+aws s3 cp --no-sign-request s3://threatenedspecies/Acanthornis_magna_magna/README-AWS.txt .
+aws s3 sync --no-sign-request s3://threatenedspecies/Acanthornis_magna_magna/ .
 ```
 
 <br>
