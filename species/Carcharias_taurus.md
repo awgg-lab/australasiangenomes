@@ -23,7 +23,7 @@ aws s3 cp --no-sign-request s3://threatenedspecies/Carcharias_taurus/fCartau2_20
 
 <br>
 
-| **BUSCO** | **v5.4.6 vertebrata odb10** | **v5.4.6 vertebrata odb10** |
+| BUSCO | v5.4.6 vertebrata odb10 | v5.4.6 vertebrata odb10 |
 |:--- | --- | --- |
 | Genome Assmebly | fCartau_20232908 | fCartau2_20231112 |
 | Genes    | 3354 |  3354 |
