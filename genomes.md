@@ -12,7 +12,7 @@ taxa(first three letters)_Genus(first three letters)_Species_primary/seconday_ve
 taxa(first three letters)_Genus(first three letters)_Species_tissue type_version number_NCBI submission date
 ```
 
-<img src = "images/Image-Coming-Soon.png" width = 100 align = "center">  [*Acanthiza pusilla* (Brown thornbill)](./species/Acanthiza_pusilla.md) Image courtesy of
+<img src = "images/Acanthiza_pusilla_magnirostris.jpg" width = 100 align = "center">  [*Acanthiza pusilla* (Brown thornbill)](./species/Acanthiza_pusilla.md) Image courtesy of Ross Crates
 
 <img src = "images/Acanthornis_magnus_greenianus.jpg" width = 100 align = "center">  [*Acanthornis magna magna* (Tasmanian scrubtit)](./species/Acanthornis_magna_greeniana.md) Image courtesy of Catherine Young
 
