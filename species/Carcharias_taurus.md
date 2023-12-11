@@ -2,7 +2,7 @@
 
 [Genome & Transcriptome Data ](https://threatenedspecies.s3.ap-southeast-2.amazonaws.com/index.html) | 
 
-Note: assembly fCartau_20232908 is a draft version of the grey nurse shark genome, fCartau2_20231112 is a final version of the grey nurse shark genome which was assembled using an additional PacBio HiFi Revio cell to obtain more data
+Note: assembly fCartau1_20232908 is a draft version of the grey nurse shark genome, fCartau2_20231112 is a final version of the grey nurse shark genome which was assembled using an additional PacBio HiFi Revio cell to obtain more data
 
 Download data through hyperlinks above or using the [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
   
@@ -12,7 +12,7 @@ aws s3 cp --no-sign-request s3://threatenedspecies/Carcharias_taurus/fCartau2_20
 ```
 <br>
 
-| Assembly Statistics | fCartau_20232908 | fCartau2_20231112 |
+| Assembly Statistics | fCartau1_20232908 | fCartau2_20231112 |
 |:--- | --- | --- |
 | Assembly    | PacBio HiFi | PacBio HiFi |
 | Assembler program |  hifiasm v0.16.1-r375 | hifiasm v.0.19.8 |
@@ -25,7 +25,7 @@ aws s3 cp --no-sign-request s3://threatenedspecies/Carcharias_taurus/fCartau2_20
 
 | BUSCO | v5.4.6 vertebrata odb10 | v5.4.6 vertebrata odb10 |
 |:--- | --- | --- |
-| Genome Assmebly | fCartau_20232908 | fCartau2_20231112 |
+| Genome Assmebly | fCartau1_20232908 | fCartau2_20231112 |
 | Genes    | 3354 |  3354 |
 | Complete    | 85.2% | 91.6% |
 | Single Copy |  73.9% | 88.3% |
