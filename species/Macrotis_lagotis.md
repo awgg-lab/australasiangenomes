@@ -32,8 +32,8 @@ aws s3 sync s3://threatenedspecies/Macrotis_lagotis/ .
 95.6% of the genome is assigned to 9 nuclear chromosomes and one mitogenome
 <br>
 
-| **BUSCO** | **v5.4.6** mammalia_obd10 |
-|:--- | --- | |
+| **BUSCO** | **v5.4.6 mammalia_obd10** |
+|:--- | --- |
 | Genes    | 9226 |
 | Complete    | 93.5% |
 | Single Copy |  88.6% |
