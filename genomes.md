@@ -29,6 +29,8 @@ Image courtesy of Sabrina Trocini
 
 <img src = "images/Macrotis_lagotis.jpg" width = 100 align = "center">  [*Macrotis lagotis* (Ninu: Greater Bilby)](./species/Macrotis_lagotis.md) Image courtesy of Emma Peel
 
+<img src = "images/Macrotis_leucura.jpg" width = 100 align = "center">  [*Macrotis leucura* (Yallara: Lesser Bilby)](./species/Macrotis_leucura.md) Image courtesy of Kenny Travouillon
+
 <img src = "images/Mixophyes_australis.jpg" width = 100 align = "center">  [*Mixophyes australis* (Southern stuttering frog)](./species/Mixophyes_australis.md) Image courtesy of Zoos Victoria
 
 <img src = "images/Myrmecobius_fasciatus.jpg" width = 100 align = "center">  [*Myrmecobius fasciatus* (Numbat)](./species/Myrmecobius_fasciatus.md) Image courtesy of Wayne Lawler
