@@ -3,6 +3,7 @@
 [Genome & Transcriptome Data ](https://threatenedspecies.s3.ap-southeast-2.amazonaws.com/index.html) | [NCBI Accession: 	PRJNA1049866](https://www.ncbi.nlm.nih.gov/bioproject/1049866)
 
 [Publication:](https://www.nature.com/articles/s41559-024-02436-2)  Carolyn J. Hogg, Richard J. Edwards, Katherine A. Farquharson, Luke W. Silver, Parice Brandies, Emma Peel, Merly Escalona, Frederick R. Jaya, Rujiporn Thavornkanlapachai, Kimberley Batley, Tessa M. Bradford, J King Chang, Zhiliang Chen, Nandan Deshpande, Martin Dziminski, Kyle M. Ewart, Oliver W. Griffith, Laia Marin-Gual, Katherine L. Moon, Kenny J. Travouillon, Paul Waters Camilla M. Whittington, Marc R. Wilkins, Kristofer M. Helgen, Nathan Lo, Simon Y. W. Ho, Aurora Ruiz Herrera, Rachel Paltridge, Jennifer A. Marshall Graves, Marilyn Renfree, Beth Shapiro, Kym Ottewell, Kiwirrkurra Rangers, Katherine Belov. (2024) Extant and extinct bilby genomes combined with Indigenous knowledge improve conservation of a unique Australian marsupial. Nature Ecology & Evolution DOI: 10.1038/s41559-024-02436-2
+
 Download data through hyperlinks above or using the [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
   
 ```
