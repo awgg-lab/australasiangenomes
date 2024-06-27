@@ -42,6 +42,9 @@ aws s3 sync s3://threatenedspecies/Macrotis_lagotis/ .
 | Missing | 5.4%  | 
 
 We acknowledge the traditional custodians of the land upon which bilbies have been, and are still, found and pay respects to their elders past and present. 
+
 We thank Perth Zoo and Taronga Zoo for the provision of the individuals (female and male respectively) for the reference genome and transcriptomes. Thanks also to A. Sayer for assistance in acquiring the genome sample from Perth Zoo.
+
 The 10x Genomics sequencing was provided as part of the Oz Mammals Genomics (OMG), and bioinformatic support was provided as part of the Threatened Species Initiative (TSI), both supported by funding from the Australian Government National Collaborative Research Infrastructure Strategy (NCRIS) Bioplatforms Australia. The PacBio HiFi sequencing and HiC was supported by the University of Sydney through research grants to KB (DP180102465) and CJH (Toledo Zoo and Aquarium).
+
 Image supplied by Emma Peel, AWGG.
