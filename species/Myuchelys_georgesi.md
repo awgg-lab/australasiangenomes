@@ -8,12 +8,12 @@
 Download data through hyperlinks above or using the [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
   
 ```
-aws s3 cp --no-sign-request s3://threatenedspecies/Myuchelys_georgesi/rMyugeo_md5sum.txt .
-aws s3 cp --no-sign-request s3://threatenedspecies/Myuchelys_georgesi/rMyugeo1.global.20221122.fasta.gz .
-aws s3 cp --no-sign-request s3://threatenedspecies/Myuchelys_georgesi/rMyugeo1.pri.20221122.fasta.gz .
-aws s3 cp --no-sign-request s3://threatenedspecies/CMyuchelys_georgesi/rMyugeo1.fgenesh.20221122.gff3 .
-aws s3 cp --no-sign-request s3://threatenedspecies/Myuchelys_georgesi/README-AWS.txt .
-aws s3 sync --no-sign-request s3://threatenedspecies/CMyuchelys_georgesi/ .
+aws s3 cp --no-sign-request s3://threatenedspecies/Myuchelys_georgesi/myugeo.md5sum .
+aws s3 cp --no-sign-request s3://threatenedspecies/Myuchelys_georgesi/rMyugeo1.global.21072024.fasta.gz .
+aws s3 cp --no-sign-request s3://threatenedspecies/Myuchelys_georgesi/rMyugeo1.pri.20230808.fasta.gz .
+aws s3 cp --no-sign-request s3://threatenedspecies/CMyuchelys_georgesi/rMyugeo1.fgenesh.29072024.gff3.gz .
+aws s3 cp --no-sign-request s3://threatenedspecies/Myuchelys_georgesi/README.txt .
+aws s3 sync --no-sign-request s3://threatenedspecies/Myuchelys_georgesi/ .
 ```
 
 <br>
