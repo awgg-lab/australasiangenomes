@@ -1,6 +1,6 @@
 # **Bellinger River snapping turtle** *(Myuchelys_georgesi)* 
 
-[Genome & Transcriptome Data ](https://threatenedspecies.s3.ap-southeast-2.amazonaws.com/index.html) | 
+[Genome & Transcriptome Data ](https://threatenedspecies.s3.ap-southeast-2.amazonaws.com/index.html) | [NCBI BioProject: PRJNA1003540](https://www.ncbi.nlm.nih.gov/bioproject/1003540)
 
 [Publication:] Holly Nelson, Katherine Farquharson, Arthur Georges, Elspeth McLennan, Jane DeGabriel, Melissa Giese, Christopher Ormond, Michael McFadden, Adam Skidmore, Katherine Belov, Carolyn Hogg, A genomic framework to assist conservation breeding and reintroduction success: A case study of a critically endangered turtle
 
