@@ -30,10 +30,10 @@ aws s3 sync s3://threatenedspecies/Neophema_chrysogaster .
 
 <br>
 
-| **BUSCO** | **v5.4.6 aves_obd10** |  **v5.4.6 vertebrata_obd10**|
+| **BUSCO** | **v5.4.6 aves_obd10** |  **v5.4.6 vertebrata_obd10** |
 |:--- | --- |
-| Genes    |8,338 | 3,354|
-| Complete    | 96.8%| 96.0% |
+| Genes    |8,338 | 3,354 |
+| Complete    | 96.8% | 96.0% |
 | Single Copy | 96.3% | 95.1% |
 | Duplicated | 0.5% | 0.9% |
 | Fragmented |0.5% | 1.0% |
