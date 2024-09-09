@@ -1,18 +1,16 @@
-# **Tasmanian scrubtit** *(Acanthornis magna magna)* 
+# **Regent honeyeater** *(Anthochaera phrygia)* 
 
 [Genome & Transcriptome Data ](https://threatenedspecies.s3.ap-southeast-2.amazonaws.com/index.html) | 
-
-[Pre-print:](https://doi.org/10.22541/au.169471129.99174363/v1) Ross Crates, Brenton von Takach, Catherine M Young, Dejan Stojanovic, Linda Neaves, Liam Murphy, Daniel Gautschi, Carolyn J Hogg, Robert Heinsohn, Phil Bell, Katherine A Farquharson, Genomic insights into a critically endangered island endemic songbird provide a roadmap for preventing extinction, Authorea. September 14 2023.
 
 Download data through hyperlinks above or using the [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
   
 ```
-aws s3 cp --no-sign-request s3://threatenedspecies/Acanthornis_magna_magna/Acamag_md5sum.txt .
-aws s3 cp --no-sign-request s3://threatenedspecies/Acanthornis_magna_magna/bAcamag.global.20230524.fasta.gz .
-aws s3 cp --no-sign-request s3://threatenedspecies/Acanthornis_magna_magna/bAcamag1.pri.20230524.fasta.gz .
-aws s3 cp --no-sign-request s3://threatenedspecies/Acanthornis_magna_magna/bAcamag1.fgenesh.20230524.gff3 .
+aws s3 cp --no-sign-request s3://threatenedspecies/Anthochaera_phrygia/bAntphy.fgenesh.20231011.gff3 .
+aws s3 cp --no-sign-request s3://threatenedspecies/Anthochaera_phrygia/bAntphy.global.20230913.fasta.gz .
+aws s3 cp --no-sign-request s3://threatenedspecies/Anthochaera_phrygia/bAntphy1.pri.20221031.fasta.gz .
+aws s3 cp --no-sign-request s3://threatenedspecies/Anthochaera_phrygia/md5sum.txt .
 aws s3 cp --no-sign-request s3://threatenedspecies/Acanthornis_magna_magna/README-AWS.txt .
-aws s3 sync --no-sign-request s3://threatenedspecies/Acanthornis_magna_magna/ .
+aws s3 sync --no-sign-request s3://threatenedspecies/Anthochaera_phrygia/ .
 ```
 
 <br>
@@ -21,20 +19,20 @@ aws s3 sync --no-sign-request s3://threatenedspecies/Acanthornis_magna_magna/ .
 |:--- | --- |
 | Assembly    | PacBio HiFi |
 | Assembler program |  hifiasm v0.16.1 |
-| Genome size | 1.48 GB |
-| #contigs | 1,516 |
-| Contig N50 | 7.715 Mb |
-| Largest Contig | 60.595 Mb |
+| Genome size | 1.13 GB |
+| #contigs | 1,453 |
+| Contig N50 | 2.096 Mb |
+| Largest Contig | 15.57 Mb |
 
 <br>
 
-| **BUSCO** | **v5.2.2 aves odb10** |
-|:--- | --- |
-| Genes    | 8,338 |
-| Complete    | 97.1% |
-| Single Copy |  96.4% |
-| Duplicated | 0.7% |
-| Fragmented | 0.5% |
-| Missing | 2.4% |
+| **BUSCO** | **v5.4.6 aves odb10** |  **v5.4.6 vertebrata odb10** |
+|:--- | --- | --- |
+| Genes    | 8,059 | 3,354|
+| Complete    | 96.7% | 95.3% |
+| Single Copy |  95.7% | 93.7% |
+| Duplicated | 1.0% | 1.6% |
+| Fragmented | 0.7% | 1.6% |
+| Missing | 2.6% | 3.1% |
 
-We acknowledge the traditional custodians of the land on which this research was conducted. This study was funded by the Commonwealth Department of Environment and Climate Change, BirdLife Australia and generous donors to the Difficult Bird Research Group. Sequencing received in-kind support from the NCRIS funded BioPlatforms Threatened Species Initiative. Research was conducted under Tasmanian Scientific licence #TFA23010, ANU animal ethics permit #A2021/33 and ABBBS banding authorities #3192 & #2833. Computational resources were provided by Amazon Web Services and RONIN; the Australian Biocommons supported FGENESH++ service; the Pawsey Supercomputing Research Centre with funding from the Australian Government and the Government of Western Australia; Galaxy Australia, a service provided by the Australian Biocommons and its partners; and the University of Sydney’s High Performance Computing facility Artemis. We thank Mark Carey, the King Island Conservation Action Plan working group, Sustainable Timber Tasmania, the Tasmanian National Parks and Wildlife Service & H. Camm & family for logistical support. KAF is supported by the Australian Research Council Centre of Excellence for Innovations in Peptide and Protein Science (CE200100012).
+
