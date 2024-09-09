@@ -9,7 +9,7 @@ aws s3 cp --no-sign-request s3://threatenedspecies/Anthochaera_phrygia/bAntphy.f
 aws s3 cp --no-sign-request s3://threatenedspecies/Anthochaera_phrygia/bAntphy.global.20230913.fasta.gz .
 aws s3 cp --no-sign-request s3://threatenedspecies/Anthochaera_phrygia/bAntphy1.pri.20221031.fasta.gz .
 aws s3 cp --no-sign-request s3://threatenedspecies/Anthochaera_phrygia/md5sum.txt .
-aws s3 cp --no-sign-request s3://threatenedspecies/Acanthornis_magna_magna/README-AWS.txt .
+aws s3 cp --no-sign-request s3://threatenedspecies/Anthochaera_phrygia/README-AWS.txt .
 aws s3 sync --no-sign-request s3://threatenedspecies/Anthochaera_phrygia/ .
 ```
 
