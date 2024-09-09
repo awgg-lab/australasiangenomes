@@ -8,7 +8,7 @@ Download data through hyperlinks above or using the [AWS Command Line Interface]
   
 ```
 aws s3 cp s3://threatenedspecies/Neophema_chrysogaster/bNeochry1.pri.20230906.fa.gz .
-aws s3 cp s3://threatenedspecies/Neophema_chrysogaster/bNeochry_global_2-230920.fa.gz .
+aws s3 cp s3://threatenedspecies/Neophema_chrysogaster/bNeochry_global_20230920.fa.gz .
 aws s3 cp s3://threatenedspecies/Neophema_chrysogaster/bNeochry1_fgenesh_20231024.gff3.gz .
 aws s3 cp s3://threatenedspecies/Neophema_chrysogaster/md5sum.txt .
 aws s3 cp s3://threatenedspecies/Neophema_chrysogaster/README.txt .
