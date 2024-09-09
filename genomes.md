@@ -39,7 +39,7 @@ Image courtesy of Sabrina Trocini
 
 <img src = "images/Myuchelys_georgesi.jpg" width = 100 align = "center">  [*Myuchelys georgesi* (Bellinger River snapping turtle)](./species/Myuchelys_georgesi.md) Image courtesy of Shane Ruming
 
-<img src = "images/Neophema_chrysogaster.jpg" width = 100 align = "center">  [*Neophema chrysogaster* (Orange bellied parrot)](./species/Neophema_chrysogaster.md) Image courtesy of Dejan Stojanovic
+<img src = "images/Neophema_chrysogaster.JPG" width = 100 align = "center">  [*Neophema chrysogaster* (Orange bellied parrot)](./species/Neophema_chrysogaster.md) Image courtesy of Dejan Stojanovic
 
 <img src = "images/Phascogale calura.jpg" width = 100 align = "center">  [*Phascogale calura* (Red-tailed phascogale)](./species/Phascogale_calura.md) Image courtesy of Brad Leue Photography
 
