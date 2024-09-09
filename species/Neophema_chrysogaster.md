@@ -18,7 +18,7 @@ aws s3 sync s3://threatenedspecies/Neophema_chrysogaster .
 <br>
 
 | Assembly Statistics |  |
-|:--- | --- |
+|:--- | --- | --- |
 | Assembly    | bNeochry1.pri.20230906 | 
 | Description |  HiFi reads assembled with hifiasm (0.16.2-r375) and HiC scaffolded with YaHs |
 | Genome size | 1.32Gb | 
