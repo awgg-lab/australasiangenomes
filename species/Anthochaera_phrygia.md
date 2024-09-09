@@ -35,4 +35,5 @@ aws s3 sync --no-sign-request s3://threatenedspecies/Anthochaera_phrygia/ .
 | Fragmented | 0.7% | 1.6% |
 | Missing | 2.6% | 3.1% |
 
-
+This work was funded by the NCRIS supported Bioplatforms Australia Threatened Species Initiative and the University of Sydney. Computational resources were provided by; the Australian FGENESH++ Service provided by the Australian BioCommons and the Pawsey Supercomputing Research Centre with funding from the Australian Government and the Government of Western Australia; Galaxy Australia, a service provided by the Australian Biocommons and its partners; and the University of SydneyÃ¢â‚¬â„¢s High Performance Computing facility Artemis provided by the Sydney Informatics Hub. We wish to acknowledge the use of the services and facilities of the Ramaciotti Centre for Genomics, UNSW and of the Australian Genome Research Facility.
+Thanks to Jo Day and Taronga Zoo for provisions of the samples used to generate the genome and transcriptomes
