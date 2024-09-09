@@ -1,6 +1,6 @@
 # **Regent honeyeater** *(Anthochaera phrygia)* 
 
-[Genome & Transcriptome Data ](https://threatenedspecies.s3.ap-southeast-2.amazonaws.com/index.html) | 
+[Genome & Transcriptome Data ](https://threatenedspecies.s3.ap-southeast-2.amazonaws.com/index.html) | [NCBI Accession: PRJNA1145263](https://www.ncbi.nlm.nih.gov/bioproject/1145263)
 
 Download data through hyperlinks above or using the [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
   
