@@ -16,7 +16,7 @@ taxa(first three letters)_Genus(first three letters)_Species_tissue type_version
 
 <img src = "images/Acanthornis_magnus_greenianus.jpg" width = 100 align = "center">  [*Acanthornis magna magna* (Tasmanian scrubtit)](./species/Acanthornis_magna_greeniana.md) Image courtesy of Catherine Young
 
-<img src = "images/Anthochaera_phrygia.jpg" width = 100 align = "center">  [*Anthochaera phrygia* (Regent honeyeater)](./species/Anthochaera_phrygia.md)
+<img src = "images/Anthochaera_phrygia.jpg" width = 100 align = "center">  [*Anthochaera phrygia* (Regent honeyeater)](./species/Anthochaera_phrygia.md) Image coutesy of Lachlan Hall
 
 <img src = "images/Bettongia_pencillata.jpg" width = 100 align = "center">  [*Bettongia penicillata ogilbyi* (Woylie)](./species/Bettongia_penicillata_ogilbyi.md)
 Image courtesy of Sabrina Trocini
