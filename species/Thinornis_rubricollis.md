@@ -33,7 +33,8 @@ aws s3 sync --no-sign-request s3://threatenedspecies/Thinornis_rubricollis/ .
 | Fragmented | 1.4% |
 | Missing | 2.1% | 
 
-This work was funded by the NCRIS supported Bioplatforms Australia Threatened Species Initiative and the University of Sydney. Computational resources were provided by; the  the Australian BioCommons and the Pawsey Supercomputing Research Centre with funding from the Australian Government and the Government of Western Australia; Galaxy Australia, a service provided by the Australian Biocommons and its partners; and the University of SydneyÃ¢â‚¬â„¢s High Performance Computing facility Artemis provided by the Sydney Informatics Hub. We wish to acknowledge the use of the services and facilities of the Ramaciotti Centre for Genomics, UNSW and of the Australian Genome Research Facility.
-Thanks to Dr Grainne Maguire (Birdlife Australia), Ass Prof. Mike Weston (Deakin University), Dr Joanna Sumner (Museums Victoria Research Institute), and Birdlife Australia collection team: Kasun Ekanayake, Meghan Cullen, Emma Stephens, Daniel Lees, Renee Mead, Stephen Johnson 
+This work was funded by the NCRIS supported Bioplatforms Australia Threatened Species Initiative and the University of Sydney. Computational resources were provided by; the  the Australian BioCommons and the Pawsey Supercomputing Research Centre with funding from the Australian Government and the Government of Western Australia; Galaxy Australia, a service provided by the Australian Biocommons and its partners; and the University of Sydney's High Performance Computing facility Artemis provided by the Sydney Informatics Hub. We wish to acknowledge the use of the services and facilities of the Ramaciotti Centre for Genomics, UNSW and of the Australian Genome Research Facility.
+Thanks to Dr Grainne Maguire (Birdlife Australia), Ass Prof. Mike Weston (Deakin University), Dr Joanna Sumner (Museums Victoria Research Institute), and Birdlife Australia collection team: Kasun Ekanayake, Meghan Cullen, Emma Stephens, Daniel Lees, Renee Mead, Stephen Johnson.
+
 Image taken by Glenn Ehmke, supplied by Joanna Sumner
 
