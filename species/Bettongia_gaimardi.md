@@ -1,6 +1,6 @@
 # **Eastern Bettong** *(Bettongia gaimardi)* 
 
-[Genome & Transcriptome Data ](https://threatenedspecies.s3.ap-southeast-2.amazonaws.com/index.html) | [NCBI Accession: PRJNA1095660](https://www.ncbi.nlm.nih.gov/bioproject/1095660)
+[Genome & Transcriptome Data ](https://threatenedspecies.s3.ap-southeast-2.amazonaws.com/index.html) | [NCBI Accession: PRJNA1095660](https://www.ncbi.nlm.nih.gov/bioproject/1095660)| [Publication](https://f1000research.com/articles/13-1544/v1)
 
 Download data through hyperlinks above or using the [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
   
