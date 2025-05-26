@@ -10,7 +10,7 @@
 
 [Dataset Acknowledgement & Licensing](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/Koala_Licence_Agreement.pdf)
 
-[Dataset Metadata](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/Koala_Metadata-19-10-2022.csv)
+[Dataset Metadata](https://koalagenomes.s3.ap-southeast-2.amazonaws.com/Koala_Metadata-10-10-2022.csv)
 
 [Research Publications & Associated Datasets](../publications.md)
 
