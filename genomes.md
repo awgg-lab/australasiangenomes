@@ -43,6 +43,8 @@ Image courtesy of Sabrina Trocini
 
 <img src = "images/Neophema_chrysogaster.JPG" width = 100 align = "center">  [*Neophema chrysogaster* (Orange bellied parrot)](./species/Neophema_chrysogaster.md) Image courtesy of Dejan Stojanovic
 
+<img src = "images/Image-Coming-Soon.jpg" width = 100 align = "center">  [*Ornithorhynchus_anatinus* (Platypus)](./species/Ornithorhynchus_anatinus.md)
+
 <img src = "images/Phascogale calura.jpg" width = 100 align = "center">  [*Phascogale calura* (Red-tailed phascogale)](./species/Phascogale_calura.md) Image courtesy of Brad Leue Photography
 
 <img src = "images/Phascolartus_cinereus.jpg" width = 100 align = "center">  [*Phascolarctos cinereus* (Koala)](./species/Phascolarctos_cinereus.md)
