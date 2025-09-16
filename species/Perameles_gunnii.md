@@ -1,6 +1,6 @@
 # **Eastern barred bandicoot** *(Perameles gunnii)* 
 
-[Genome & Transcriptome Data ](https://threatenedspecies.s3.ap-southeast-2.amazonaws.com/index.html) | 
+[Genome & Transcriptome Data ](https://threatenedspecies.s3.ap-southeast-2.amazonaws.com/index.html) |  [NCBI Accession: 	PRJNA1301027](https://www.ncbi.nlm.nih.gov/bioproject/1301027)
 
 Citation: Cleopatra Petrohilos, Emma Peel, Luke W. Silver, Patrick G. S. Grady, Rachel J. O’Neill, Carolyn J. Hogg, Katherine Belov: When Cells Rebel: a comparative genomics investigation into marsupial cancer susceptibility
 bioRxiv 2025.08.12.669816; doi: https://doi.org/10.1101/2025.08.12.669816.
