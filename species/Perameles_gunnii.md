@@ -8,14 +8,14 @@ bioRxiv 2025.08.12.669816; doi: https://doi.org/10.1101/2025.08.12.669816.
 Download data through hyperlinks above or using the [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
   
 ```
-aws s3 cp --no-sign-request s3://threatenedspecies/Perameles gunnii/mPerGun.global.20251003.fasta.gz .
-aws s3 cp --no-sign-request s3://threatenedspecies/Perameles gunnii/mPerGun1.2.fgenesh.gff3 .
-aws s3 cp --no-sign-request s3://threatenedspecies/Perameles gunnii/mPerGun1.2.fgenesh_cds.fasta.gz .
-aws s3 cp --no-sign-request s3://threatenedspecies/Perameles gunnii/mPerGun1.2.fgenesh_mrna.fasta.gz .
-aws s3 cp --no-sign-request s3://threatenedspecies/Perameles gunnii/mPerGun1.2.fgenesh_protein.fasta.g .
-aws s3 cp --no-sign-request s3://threatenedspecies/Perameles gunnii/mPerGun1.2_20251003.fasta.gz .
-aws s3 cp --no-sign-request s3://threatenedspecies/Perameles gunnii/README.txt .
-aws s3 sync --no-sign-request s3://threatenedspecies/Perameles gunnii/ .
+aws s3 cp --no-sign-request s3://threatenedspecies/Perameles_gunnii/mPerGun.global.20251003.fasta.gz .
+aws s3 cp --no-sign-request s3://threatenedspecies/Perameles_gunnii/mPerGun1.2.fgenesh.gff3 .
+aws s3 cp --no-sign-request s3://threatenedspecies/Perameles_gunnii/mPerGun1.2.fgenesh_cds.fasta.gz .
+aws s3 cp --no-sign-request s3://threatenedspecies/Perameles_gunnii/mPerGun1.2.fgenesh_mrna.fasta.gz .
+aws s3 cp --no-sign-request s3://threatenedspecies/Perameles_gunnii/mPerGun1.2.fgenesh_protein.fasta.g .
+aws s3 cp --no-sign-request s3://threatenedspecies/Perameles_gunnii/mPerGun1.2_20251003.fasta.gz .
+aws s3 cp --no-sign-request s3://threatenedspecies/Perameles_gunnii/README.txt .
+aws s3 sync --no-sign-request s3://threatenedspecies/Perameles_gunnii/ .
 ```
 
 <br>
