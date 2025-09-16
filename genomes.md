@@ -27,6 +27,8 @@ Image courtesy of Sabrina Trocini
 
 <img src = "images/Cryptoblepharus_egeriae.jpg" width = 100 align = "center">  [*Cryptoblepharus egeriae* (Christmas Island blue-tailed skink)](./species/Cryptoblepharus_egeriae.md) Image courtesy of Lisa Cavanagh
 
+<img src = "images/Image-Coming-Soon.png" width = 100 align = "center">  [*Dasyuroides_byrnei* (Kowari)](./species/Dasyuroides_byrnei.md)
+
 <img src = "images/Lathamus_discolor.jpg" width = 100 align = "center">  [*Lathamus discolor* (Swift parrot)](./species/Lathamus_discolor.md) Image courtesy of Dejan Stojanovic
 
 <img src = "images/Lepidodactylus_listeri.jpg" width = 100 align = "center">  [*Lepidodactylus listeri* (Lister's gecko)](./species/Lepidodactylus_listeri.md) Image courtesy of Lisa Cavanagh
@@ -44,6 +46,8 @@ Image courtesy of Sabrina Trocini
 <img src = "images/Neophema_chrysogaster.JPG" width = 100 align = "center">  [*Neophema chrysogaster* (Orange bellied parrot)](./species/Neophema_chrysogaster.md) Image courtesy of Dejan Stojanovic
 
 <img src = "images/Image-Coming-Soon.png" width = 100 align = "center">  [*Ornithorhynchus anatinus* (Platypus)](./species/Ornithorhynchus_anatinus.md)
+
+<img src = "images/Image-Coming-Soon.png" width = 100 align = "center">  [*Perameles gunnii* (Eastern barred bandicoot)](./species/Perameles_gunnii.md)
 
 <img src = "images/Phascogale calura.jpg" width = 100 align = "center">  [*Phascogale calura* (Red-tailed phascogale)](./species/Phascogale_calura.md) Image courtesy of Brad Leue Photography
 
