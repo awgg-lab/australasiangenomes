@@ -8,13 +8,13 @@ bioRxiv 2025.08.12.669816; doi: https://doi.org/10.1101/2025.08.12.669816.
 Download data through hyperlinks above or using the [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
   
 ```
-aws s3 cp --no-sign-request s3://threatenedspecies/Dasyuroides byrnei/mDasByr.global.20251403.fasta.gz .
-aws s3 cp --no-sign-request s3://threatenedspecies/Dasyuroides byrnei/mDasByr1.2.fgenesh.gff3 .
-aws s3 cp --no-sign-request s3://threatenedspecies/Dasyuroides byrnei/mDasByr1.2.fgenesh_mrna.fasta.gz .
-aws s3 cp --no-sign-request s3://threatenedspecies/Dasyuroides byrnei/mDasByr1.2.fgenesh_protein.fasta.gz .
-aws s3 cp --no-sign-request s3://threatenedspecies/Dasyuroides byrnei/mDasByr.1.2_20251403.fasta.gz .
-aws s3 cp --no-sign-request s3://threatenedspecies/Dasyuroides byrnei/README.txt .
-aws s3 sync --no-sign-request s3://threatenedspecies/Dasyuroides byrnei/ .
+aws s3 cp --no-sign-request s3://threatenedspecies/Dasyuroides_byrnei/mDasByr.global.20251403.fasta.gz .
+aws s3 cp --no-sign-request s3://threatenedspecies/Dasyuroides_byrnei/mDasByr1.2.fgenesh.gff3 .
+aws s3 cp --no-sign-request s3://threatenedspecies/Dasyuroides_byrnei/mDasByr1.2.fgenesh_mrna.fasta.gz .
+aws s3 cp --no-sign-request s3://threatenedspecies/Dasyuroides_byrnei/mDasByr1.2.fgenesh_protein.fasta.gz .
+aws s3 cp --no-sign-request s3://threatenedspecies/Dasyuroides_byrnei/mDasByr.1.2_20251403.fasta.gz .
+aws s3 cp --no-sign-request s3://threatenedspecies/Dasyuroides_byrnei/README.txt .
+aws s3 sync --no-sign-request s3://threatenedspecies/Dasyuroides_byrnei/ .
 ```
 
 <br>
