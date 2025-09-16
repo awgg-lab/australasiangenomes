@@ -7,11 +7,12 @@ Luke Silver, Nicola Hanrahan, Kym Ottewell, Kyle Armstrong and Carolyn Hogg: The
 Download data through hyperlinks above or using the [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
   
 ```
-aws s3 cp --no-sign-request s3://threatenedspecies/Macroderma_gigas/mDasByr.global.20251403.fasta.gz .
-aws s3 cp --no-sign-request s3://threatenedspecies/Macroderma_gigas/mDasByr1.2.fgenesh.gff3 .
-aws s3 cp --no-sign-request s3://threatenedspecies/Macroderma_gigas/mDasByr1.2.fgenesh_mrna.fasta.gz .
-aws s3 cp --no-sign-request s3://threatenedspecies/Macroderma_gigas/mDasByr1.2.fgenesh_protein.fasta.gz .
-aws s3 cp --no-sign-request s3://threatenedspecies/Macroderma_gigas/mDasByr.1.2_20251403.fasta.gz .
+aws s3 cp --no-sign-request s3://threatenedspecies/Macroderma_gigas/mMacGig1.2.fgenesh_cds.fasta.gz .
+aws s3 cp --no-sign-request s3://threatenedspecies/Macroderma_gigas/mMacGig1.2.fgenesh_mrna.fasta.gz .
+aws s3 cp --no-sign-request s3://threatenedspecies/Macroderma_gigas/mMacGig1.2.fgenesh_protein.fasta.gz .
+aws s3 cp --no-sign-request s3://threatenedspecies/Macroderma_gigas/mMacGig1.2.fgenesh.gff3 .
+aws s3 cp --no-sign-request s3://threatenedspecies/Macroderma_gigas/mMacGig1.2.global.20250303.fasta.gz .
+aws s3 cp --no-sign-request s3://threatenedspecies/Macroderma_gigas/mMacGig1.2_20250303_update.fasta.gz .
 aws s3 cp --no-sign-request s3://threatenedspecies/Macroderma_gigas/README.txt .
 aws s3 sync --no-sign-request s3://threatenedspecies/Macroderma_gigas/ .
 ```
@@ -23,7 +24,7 @@ aws s3 sync --no-sign-request s3://threatenedspecies/Macroderma_gigas/ .
 | Assembly    | PacBio HiFi + YaHS |
 |Assembler| hifiasm v0.19. + YaHS v1.2a.2 |
 | Genome size | 2.00 GB |
-| # Ccontigs | 460 |
+| # Contigs | 460 |
 | Longest Contig | 95.87Mb |
 | # Scaffolds | 313 |
 | Longest Scaffold| 192.28 Mb |
