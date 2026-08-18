@@ -1,7 +1,7 @@
 # **Southern corroboree frog** *(Pseudophryne corroboree)* 
 
 [Transcriptome Data ](https://threatenedspecies.s3.ap-southeast-2.amazonaws.com/index.html#Ornithorhynchus_anatinus/) | 
-Download data through hyperlinks above or using the [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
+Download data through hyperlinks above or using the [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)|[NCBI Accession: 	PRJNA1510867](https://www.ncbi.nlm.nih.gov/bioproject/114027)
   
 ```
 aws s3 cp --no-sign-request s3://threatenedspecies/Pseudophryne_corroboree/stringtie_merge_nrtrans.filtered.newheader.fasta .
