@@ -4,9 +4,9 @@
 Download data through hyperlinks above or using the [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
   
 ```
-aws s3 cp --no-sign-request s3://threatenedspecies/Pseudophryne_corroboree/stringtie_merge_nrtrans.filtered.newheader.fasta
+aws s3 cp --no-sign-request s3://threatenedspecies/Pseudophryne_corroboree/stringtie_merge_nrtrans.filtered.newheader.fasta .
 aws s3 cp --no-sign-request s3://threatenedspecies/Pseudophryne_corroboree/stringtie_merge_nrtrans.filtered.newheader.fasta.TD2.pep .
-aws s3 cp --no-sign-request s3://threatenedspecies/Pseudophryne_corroboree/stringtie_merge_nrtrans.filtered.newheader.fasta.TD2.gff3
+aws s3 cp --no-sign-request s3://threatenedspecies/Pseudophryne_corroboree/stringtie_merge_nrtrans.filtered.newheader.fasta.TD2.gff3 .
 aws s3 cp --no-sign-request s3://threatenedspecies/Pseudophryne_corroboree/pred_amps_corrob_global_08.fasta .
 aws s3 cp --no-sign-request s3://threatenedspecies/Pseudophryne_corroboree/md5sum.txt .
 aws s3 cp --no-sign-request s3://threatenedspecies/Pseudophryne_corroboree/README .
