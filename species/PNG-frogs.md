@@ -19,7 +19,7 @@ aws s3 cp --no-sign-request s3://threatenedspecies/png_frogs/pred_amps_oreo_08.f
 ```
 
 
-De novo generated transcriptomes and amp identification from three PNG frog species, raw RAN seq data avialable at PRJNA1510881
+De novo generated transcriptomes and amp identification from three PNG frog species, raw RAN seq data available at PRJNA1510881
 
 Discrepancies between file and species names are due to changes in species names during the study:
 AUSTRO = Copiula guttata
