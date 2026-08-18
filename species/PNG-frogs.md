@@ -1,7 +1,7 @@
 # **PNG frog transcriptomes** 
 
 [Transcriptome Data ](https://threatenedspecies.s3.ap-southeast-2.amazonaws.com/index.html#Ornithorhynchus_anatinus/) | 
-Download data through hyperlinks above or using the [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
+Download data through hyperlinks above or using the [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html) | [NCBI Accession: 	PRJNA1510881](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1510881)
   
 ```
 aws s3 cp --no-sign-request s3://threatenedspecies/png_frogs/AUSTRO_GLOBAL.trinity.Trinity.fasta .
