@@ -7,6 +7,16 @@
 Download data through hyperlinks above or using the [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
   
 ```
+
+aws s3 cp s3://threatenedspecies/Neophema_chrysogaster/aNeochry1.2.braker.08102025.gtf .
+aws s3 cp s3://threatenedspecies/Neophema_chrysogaster/aNeochry1.2.braker.08102025.protein.fasta .
+aws s3 cp s3://threatenedspecies/Neophema_chrysogaster/aNeochry1.2.braker.08102025.cds.fasta .
+aws s3 cp s3://threatenedspecies/Neophema_chrysogaster/8tissues_refGuided_annot_obp_newheader.fa .
+```
+These files were generated from an updated OBP assembly, the updated assembly is an ONT based assembly scaffolded and polished with HiFi data and then further scaffolded with HiC data. Global transcriptome was generated in the same way as previously described and annotation performed with BRAKER3
+
+*OLD*
+```
 aws s3 cp s3://threatenedspecies/Neophema_chrysogaster/bNeochry1.pri.20230906.fa.gz .
 aws s3 cp s3://threatenedspecies/Neophema_chrysogaster/bNeochry_global_20230920.fa.gz .
 aws s3 cp s3://threatenedspecies/Neophema_chrysogaster/bNeochry1_fgenesh_20231024.gff3.gz .
