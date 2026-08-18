@@ -55,6 +55,8 @@ Image courtesy of Sabrina Trocini
 
 <img src = "images/Phascolartus_cinereus.jpg" width = 100 align = "center">  [*Phascolarctos cinereus* (Koala)](./species/Phascolarctos_cinereus.md)
 
+<img src = "images/Image-Coming-Soon.png" width = 100 align = "center">  [*Tachyglossus_aculeatus* (Short beaked echidna)](./species/Ornithorhynchus_anatinus.md)
+
 <img src = "images/Taudactylus_pleione.jpg" width = 100 align = "center">  [*Taudactylus pleione* (Kroombit tinkerfrog)](./species/Taudactylus_pleione.md) Image courtesy of Currumbin Wildlife Sanctuary
 
 <img src = "images/Thinornis_rubricollis.JPG" width = 100 align = "center">  [*Thinornis rubricollis* (Hooded Plover)](./species/Thinornis_rubricollis.md) Image courtesy of Glenn Ehmke
